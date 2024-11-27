@@ -1,0 +1,79 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "text",
+          "settings": {
+            "title": "Does Scandia Home offer any promotions?",
+            "content": "<p>Promotional offers may be advertised via email, social media, our website, and our flagship retail locations. Sign up for our newsletter and receive emails on all upcoming promotions.<\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer a trade discount?",
+            "content": "<p>Understanding the unique needs of interior designers and architects is key to the ongoing success of the Scandia Home brand. We are fully committed to supporting the trade and are always ready to help you with your design projects. Whether you need help selecting the right Scandia Down bedding for a certain project, seek information about any of the wide array of Scandia Home bed and bath products or have a question about an item from one of the other brands on our site, we are here to support your needs. The Scandia Home Designer Program offers accredited interior designers generous discounts on Scandia Home and Scandia Down items with no limitations on the number of items purchased. Discounts from third-party brands may also be available.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1"
+      ],
+      "settings": {
+        "title": "Discounts & Promotions",
+        "title_align": "text-center",
+        "title_size": 6,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "faq"
+  ]
+}

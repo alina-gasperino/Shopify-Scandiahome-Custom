@@ -1,0 +1,132 @@
+{
+  "sections": {
+    "section_hero_fkN6AW": {
+      "type": "section-hero",
+      "blocks": {
+        "kicker_fmPAPW": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Welcome to Scandia Home",
+            "enable_line": false,
+            "text_size": 5
+          }
+        },
+        "heading_tYVRrN": {
+          "type": "heading",
+          "settings": {
+            "title": "{{ page.title }}",
+            "text_size": 12
+          }
+        }
+      },
+      "block_order": [
+        "kicker_fmPAPW",
+        "heading_tYVRrN"
+      ],
+      "settings": {
+        "image": "{{ page.metafields.custom.featured_image.value }}",
+        "height": "use_screen_one_third",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": true,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_C4paGq": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_qFUzzc": {
+          "type": "image",
+          "settings": {
+            "image": "{{ page.metafields.custom.gallery_image_1.value }}",
+            "link": ""
+          }
+        },
+        "image_wrg47q": {
+          "type": "image",
+          "settings": {
+            "image": "{{ page.metafields.custom.gallery_image_2.value }}",
+            "link": ""
+          }
+        },
+        "image_kKCGft": {
+          "type": "image",
+          "settings": {
+            "image": "{{ page.metafields.custom.gallery_image_3.value }}",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_qFUzzc",
+        "image_wrg47q",
+        "image_kKCGft"
+      ],
+      "settings": {
+        "scale_image": true,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 3,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_map_MYbfgr": {
+      "type": "section-map",
+      "settings": {
+        "height": "use_screen_one_half",
+        "heading": "Our store",
+        "address": "<p>{{ page.metafields.custom.address | metafield_tag }}<\/p><p>{{ page.metafields.custom.store_hours | metafield_tag }}<\/p>",
+        "button": "Directions",
+        "button_style": "btn--soft",
+        "style": "light",
+        "zoom": 11,
+        "bg": "palette--light bg--accent",
+        "api_key": "",
+        "map_address": "{{ page.metafields.custom.map_address.value }}",
+        "image": "{{ page.metafields.custom.map_image.value }}",
+        "enable_latlong": false,
+        "lat": "",
+        "long": "",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "section_hero_fkN6AW",
+    "main",
+    "section_gallery_C4paGq",
+    "section_map_MYbfgr"
+  ]
+}

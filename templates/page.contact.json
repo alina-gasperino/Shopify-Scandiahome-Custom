@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_image_AaxU3P": {
+      "type": "section-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/scandiahomelogo-1.png",
+        "max_width": 20,
+        "x_align": "center",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_iCpKJE": {
+      "type": "section-richtext",
+      "blocks": {
+        "image_UqGMDC": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/scandiahomelogo-1.png",
+            "image_max_limit": 190,
+            "link": ""
+          }
+        },
+        "text_jdmDgx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We want your Scandia Home experience to be exceptional from the start. We are committed to providing the very best service throughout our entire relationship. Our in-house Customer Service staff is extremely knowledgeable about our products—and always pleased to answer any questions you may have regarding orders or general inquiries about our products and availability.<\/p><p>Contact us by phone at 800-438-2431, Monday-Friday, 9am-5pm (CDT) or by the form below. <\/p><p>We look forward to hearing from you and will make every effort to respond to you in a timely manner<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "image_UqGMDC",
+        "text_jdmDgx"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "contact": {
+      "type": "section-contact",
+      "blocks": {
+        "name": {
+          "type": "text",
+          "settings": {
+            "title": "Full Name"
+          }
+        },
+        "email": {
+          "type": "email",
+          "settings": {
+            "title": "Email"
+          }
+        },
+        "message": {
+          "type": "body",
+          "settings": {
+            "title": "Message"
+          }
+        },
+        "310063cf-0b85-4af2-960c-260c5d982d71": {
+          "type": "telephone",
+          "disabled": true,
+          "settings": {
+            "title": "Phone Number"
+          }
+        }
+      },
+      "block_order": [
+        "name",
+        "email",
+        "message",
+        "310063cf-0b85-4af2-960c-260c5d982d71"
+      ],
+      "settings": {
+        "title": "Contact us",
+        "align_text": "text-left",
+        "button_size": "btn--long",
+        "button_color": "btn--neutral",
+        "button_style": "btn--outline",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_image_wkQpnn": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/images.png",
+        "max_width": 20,
+        "x_align": "left",
+        "color_bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_richtext_mfzzmP": {
+      "type": "section-richtext",
+      "blocks": {
+        "kicker_xjMgbK": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "WE ARE HERE TO HELP",
+            "enable_line": false,
+            "text_size": 3
+          }
+        },
+        "text_P8rrVw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are here to help. 1(800) 438-2431, 9am - 5pm (CDT), Monday-Friday<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "kicker_xjMgbK",
+        "text_P8rrVw"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "disabled": true,
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "Free returns",
+            "text": "<p>Returns within 30 days receive a full refund.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "disabled": true,
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#aaaaaa",
+            "title": "Worldwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_alt": "shopify:\/\/shop_images\/images.png",
+            "icon_color": "#aaaaaa",
+            "title": "We are here to help",
+            "text": "<p>Call us anytime at 1(800) 438-2431, 9am - 5pm (CDT), Monday-Friday<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--large",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "section_image_AaxU3P",
+    "section_richtext_iCpKJE",
+    "contact",
+    "section_image_wkQpnn",
+    "section_richtext_mfzzmP",
+    "icons"
+  ]
+}

@@ -1,0 +1,152 @@
+.header__desktop {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.header__desktop__bar__c {
+  width: 100%;
+  order: 1;
+}
+.header__desktop__bar__l,
+.header__desktop__bar__r {
+  order: 2;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+.header__desktop__bar__l {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.standard__heading {
+  text-align: center;
+}
+@media screen and (min-width: 1024px) {
+  .header__logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.product-add-popdown:not(.has-errors) {
+  min-height: 50px;
+}
+.product-add-popdown {
+  transform: none;
+}
+.product-add-popdown {
+  background: var(--COLOR-ANNOUNCEMENT-BG);
+}
+.product__popdown__textbar {
+  margin-top: 10px;
+}
+.product__popdown__outer > .wrapper {
+  display: none;
+}
+
+.icon--medium .icon__column__icon {
+    width: 55px;
+    height: 55px;
+}
+
+#shopify-section-sections--16869846679771__announcement{
+
+position: sticky !important; 
+z-index: 5000;
+top: 0;
+}
+
+.btn--outline {
+  background: #d1dff1;
+}
+
+.swatch__button label, .swatch__label {
+border: 1px solid #C0C0C0;
+}
+
+@media screen and (min-width: 750px) {
+  .homepage-search {
+    display: none;
+  }
+}
+/* Make all swatch selects white
+.swatch__button input:checked ~ label:after {
+  border: 2px solid #ffffff;
+}*/
+
+/* Make swatch selects black*/
+.swatch__button label[data-swatch*="Ivory"]:after, .swatch__button .swatch__label[data-swatch*="Ivory"]:after,
+.swatch__button label[data-swatch^="Creme"]:after, .swatch__button .swatch__label[data-swatch^="Creme"]:after,
+.swatch__button label[data-swatch^="Silver"]:after, .swatch__button .swatch__label[data-swatch^="Silver"]:after,
+.swatch__button label[data-swatch*="White"]:after, .swatch__button .swatch__label[data-swatch*="White"]:after {
+    --bg: var(--text-light);
+}
+
+/* Turn off search in mobile nav*/
+.drawer__search{
+display: none !important;
+}
+
+
+/* use this to change swatch size */
+.form__selectors .swatch__button {
+    --swatch-size: 40px;
+    --swatch-offset: 3px;
+}
+/* end */
+
+/* Show cart count instead of dot */
+.header__desktop__buttons--icons .header__cart__status [data-header-cart-full=true],
+.header__mobile__button .header__cart__status [data-header-cart-full=true]{
+  display: none;
+}
+.header__desktop__buttons--icons .header__cart__status [data-header-cart-count]:not([data-header-cart-count="0"]), 
+.header__mobile__button .header__cart__status [data-header-cart-count]:not([data-header-cart-count="0"]){
+  height: auto;
+  width: auto;
+  position: relative !important;
+  clip: auto;
+  margin: auto;
+  overflow: auto;
+  margin-left: 5px;
+  top: 3px;
+}
+/* end */
+
+/* CSS - Hide the product add popdown */
+.product-add-popdown{
+display: none !important;
+}
+/* end */
+
+.drawer__underlay {
+    opacity: 80%;
+}
+
+.image_mobile {
+  display: none;
+}
+.video_desktop {
+  display: block;
+  position: relative;
+}
+@media screen and (max-width: 500px) {
+  .image_mobile {
+    display: block;
+  }
+  .video_desktop {
+    display: none;
+  }
+}
+
+
+
+/* Remove Main menu & Home from breadcrumbs 
+a[title="Main menu"], span#uncomplicated-category-breadcrumb-top-separator.breadcrumb__allproducts {
+    display: none;
+}*/
+
+/* Remove first > seperator from the start of breadcrumbs */
+/* #uncomplicated-breadcrumbs #uncomplicated-category-breadcrumb-insertedsep-1 {display: none;}
+#uncomplicated-breadcrumbs #uncomplicated-category-breadcrumb-insertedsep-0 {display: none;}
+#uncomplicated-breadcrumbs #uncomplicated-category-breadcrumb-top-separator {display: none;} */

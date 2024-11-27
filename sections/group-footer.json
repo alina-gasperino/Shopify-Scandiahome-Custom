@@ -1,0 +1,89 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "linklist": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "footer",
+            "title": "",
+            "accordion_default": ""
+          }
+        },
+        "dd906772-943b-4d04-a194-38579b4bb22a": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "information",
+            "title": "",
+            "accordion_default": ""
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "show_image": false,
+            "wh_ratio": 2,
+            "newsletter_enable": true,
+            "recaptcha_enabled": false,
+            "kicker": "exclusive offers straight to your inbox",
+            "heading": "",
+            "richtext": "<p>We invite you to join our email list and receive 15% off your first purchase with us. <\/p>",
+            "text_size": 4,
+            "background_color": "#f7f7f7",
+            "text_color_value": "#656565"
+          }
+        },
+        "bab63d14-6ad6-4dcf-bfa1-a0b0103e69ea": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "for-the-trade",
+            "title": "",
+            "accordion_default": ""
+          }
+        },
+        "6bd9e431-ebf4-460a-9540-a3ff8dc9f69f": {
+          "type": "social",
+          "settings": {
+            "title": "Join our community, connect with us:",
+            "text_size": 5,
+            "enable_follow_on_shop": false
+          }
+        }
+      },
+      "block_order": [
+        "linklist",
+        "dd906772-943b-4d04-a194-38579b4bb22a",
+        "newsletter",
+        "bab63d14-6ad6-4dcf-bfa1-a0b0103e69ea",
+        "6bd9e431-ebf4-460a-9540-a3ff8dc9f69f"
+      ],
+      "settings": {
+        "menu_position": "left",
+        "logo_max_limit": 90,
+        "width": "wrapper--full",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "subfooter": {
+      "type": "subfooter",
+      "settings": {
+        "footer_secondary_linklist": "bottom-footer",
+        "footer_payment_enable": false,
+        "footer_social_enable": false,
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "width": "wrapper--full",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "subfooter"
+  ]
+}
