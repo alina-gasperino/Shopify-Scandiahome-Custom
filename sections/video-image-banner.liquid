@@ -3,27 +3,28 @@
   {%- assign scroll_class = 'has-scroll-arrow' -%}
 {%- endif -%}
 
-<div class="section-video-image {{ scroll_class }}"
+<div class="section-video-image {{ scroll_class }} {{ section.settings.color_bg }}"
   data-section-id="{{ section.id }}"
   data-section-type="video"
   {% if section.settings.width == "wrapper--none" and section.settings.padding_top == 0 %} data-overlay-header{% endif %}
   style="--PT: {{ section.settings.padding_top }}px; --PB: {{ section.settings.padding_bottom }}px;">
   <div class="{{ section.settings.width }} section-padding">
-    {% assign unmute = false %}
+    {% assign unmute = 'unmute' %}
     {%- if section.settings.unmute -%}
-      {%- assign unmute = false -%}
+      {%- assign unmute = 'unmute' -%}
     {%- else -%}
-      {%- assign unmute = true -%}
+      {%- assign unmute = 'mute' -%}
     {%- endif -%}
     <div
-      class="section--image"
+      class="section--image fade-in-child js-overflow-container aspect-[--wh-ratio]"
       {%- assign video_wh_ratio = section.settings.video_bg.aspect_ratio | default: section.settings.image.aspect_ratio | default: 1 -%}
       style="--wh-ratio: {{ video_wh_ratio }};">
 
       {%- if section.settings.video_bg != nil -%}
         <div class="video-autoplay-wrapper video_desktop">
           {%- assign video_styles = section.settings.object_position | replace: '-', ' ' | prepend: 'object-position: ' -%}         
-          {{ section.settings.video_bg | video_tag: autoplay: true, loop: true, muted: unmute, controls: false, playsinline: true, style: video_styles, data-video-autoplay: '' }}
+          {{ section.settings.video_bg | video_tag: autoplay: true, loop: true, muted: true, controls: false, playsinline: true, style: video_styles, id:unmute, data-video-autoplay: '' }}
+          <button id="unmuteButton" style="display:none;">Unmute</button>
         </div>
       {% endif %}
 
@@ -45,6 +46,38 @@
 {
   "name": "Video Image Banner",
   "settings": [
+    {
+      "type": "select",
+      "id": "height",
+      "label": "Section height",
+      "default": "use_screen_two_thirds",
+      "options": [
+        { "value": "use_screen_full", "label": "Full screen height"},
+        { "value": "use_screen_three_quarters", "label": "Three quarters of screen height"},
+        { "value": "use_screen_two_thirds", "label": "Two thirds of screen height"},
+        { "value": "use_screen_one_half", "label": "One half of screen height"},
+        { "value": "use_screen_one_third", "label": "One third of screen height"},
+        { "value": "use_screen_one_fifth", "label": "One fifth of screen height"},
+        { "value": "use_pixels_800", "label": "800px" },
+        { "value": "use_pixels_650", "label": "650px" },
+        { "value": "use_pixels_500", "label": "500px" },
+        { "value": "use_image", "label": "Image height"}
+      ]
+    },
+    {
+      "type": "select",
+      "id": "color_bg",
+      "label": "Background color",
+      "default": "palette--light bg--neutral",
+      "options": [
+        { "value": "palette--light bg--neutral", "label": "Default"},
+        { "value": "palette--light bg--accent", "label": "Light"},
+        { "value": "palette--dark bg--invert", "label": "Dark"},
+        { "value": "palette--dark bg--invert--accent", "label": "Dark accent"},
+        { "value": "palette--bright bg--bright", "label": "Bright"},
+        { "value": "palette--bright bg--bright--accent", "label": "Bright accent"}
+      ]
+    },
     {
       "type": "video",
       "id": "video_bg",
