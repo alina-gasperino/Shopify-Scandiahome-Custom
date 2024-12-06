@@ -16,15 +16,14 @@
       {%- assign unmute = 'mute' -%}
     {%- endif -%}
     <div
-      class="section--image fade-in-child js-overflow-container aspect-[--wh-ratio]"
+      class="section--image"
       {%- assign video_wh_ratio = section.settings.video_bg.aspect_ratio | default: section.settings.image.aspect_ratio | default: 1 -%}
-      style="--wh-ratio: {{ video_wh_ratio }};">
+      >
 
       {%- if section.settings.video_bg != nil -%}
-        <div class="video-autoplay-wrapper video_desktop">
+        <div class="video_desktop">
           {%- assign video_styles = section.settings.object_position | replace: '-', ' ' | prepend: 'object-position: ' -%}         
-          {{ section.settings.video_bg | video_tag: autoplay: true, loop: true, muted: true, controls: false, playsinline: true, style: video_styles, id:unmute, data-video-autoplay: '' }}
-          <button id="unmuteButton" style="display:none;">Unmute</button>
+          {{ section.settings.video_bg | video_tag: autoplay: true, loop: true, muted: true, controls: true, playsinline: true, style: video_styles, id:unmute, data-video-autoplay: '' }}
         </div>
       {% endif %}
 
@@ -32,7 +31,7 @@
         {% if section.settings.show_video_mobile %}
           <div class="video_mobile">
             {%- assign video_styles = section.settings.object_position | replace: '-', ' ' | prepend: 'object-position: ' -%}
-            {{ section.settings.video_mobile | video_tag: autoplay: true, loop: true, muted: unmute, controls: false, playsinline: true, style: video_styles, data-video-autoplay: '' }}
+            {{ section.settings.video_mobile | video_tag: autoplay: true, loop: true, muted: true, controls: true, playsinline: true, style: video_styles, data-video-autoplay: '' }}
           </div>
         {%  else %}
           {%- render 'image', cover: true, img_object: section.settings.image, wh_ratio: video_wh_ratio, loading: 'lazy' -%}

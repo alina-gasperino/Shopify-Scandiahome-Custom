@@ -128,7 +128,9 @@ display: none !important;
 }
 .video_desktop {
   display: block;
-  position: relative;
+}
+.video_desktop video, .video_mobile video {
+  display: block;
 }
 @media screen and (max-width: 500px) {
   .image_mobile {
