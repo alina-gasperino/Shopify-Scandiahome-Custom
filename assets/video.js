@@ -1,15 +1,13 @@
-document.addEventListener('DOMContentLoaded', function() {
-    const video = document.getElementById('unmute');
-    const button = document.getElementById('unmuteButton');
-
-    video.play();
-
-    button.addEventListener('click', function() {
-      video.muted = false;
-      video.play().catch(error => console.log('Play with sound blocked:', error));
-    });
-
-    setTimeout(function() {
-        button.click();
-      }, 1000);
+jQuery(document).ready(function ($) {
+  $('.unmuteButton').on('click', function () {
+    var icon = $(this).find('i')
+    var $video = $(this).parent().find("video")
+    var video = $video[0];
+    video.muted = !video.muted;
+    if (video.muted) {
+      icon.removeClass('fa-volume-off').addClass('fa-volume-up');
+    } else {
+      icon.removeClass('fa-volume-up').addClass('fa-volume-off');
+    }
   });
+});

@@ -128,9 +128,19 @@ display: none !important;
 }
 .video_desktop {
   display: block;
+  position: relative;
 }
 .video_desktop video, .video_mobile video {
   display: block;
+}
+.unmuteButton {
+  position: absolute;
+  top: 0;
+  font-size: 24px;
+  background: #000000;
+  left: 0;
+  height: 40px;
+  width: 40px;
 }
 @media screen and (max-width: 500px) {
   .image_mobile {
@@ -138,6 +148,9 @@ display: none !important;
   }
   .video_desktop {
     display: none;
+  }
+  .video_mobile {
+    position: relative;
   }
 }
 

@@ -21,17 +21,19 @@
       >
 
       {%- if section.settings.video_bg != nil -%}
-        <div class="video_desktop">
+        <div class="video-autoplay-wrapper video_desktop">
           {%- assign video_styles = section.settings.object_position | replace: '-', ' ' | prepend: 'object-position: ' -%}         
-          {{ section.settings.video_bg | video_tag: autoplay: true, loop: true, muted: true, controls: true, playsinline: true, style: video_styles, id:unmute, data-video-autoplay: '' }}
+          {{ section.settings.video_bg | video_tag: autoplay: true, loop: true, muted: true, controls: false, playsinline: true, style: video_styles, id:'unmute', data-video-autoplay: '' }}
+          <button class="unmuteButton"><i class="fa fa-volume-up"></i></button>
         </div>
       {% endif %}
 
       <div class="image_mobile">
         {% if section.settings.show_video_mobile %}
-          <div class="video_mobile">
+          <div class="video-autoplay-wrapper video_mobile">
             {%- assign video_styles = section.settings.object_position | replace: '-', ' ' | prepend: 'object-position: ' -%}
-            {{ section.settings.video_mobile | video_tag: autoplay: true, loop: true, muted: true, controls: true, playsinline: true, style: video_styles, data-video-autoplay: '' }}
+            {{ section.settings.video_mobile | video_tag: autoplay: true, loop: true, muted: true, controls: false, playsinline: true, style: video_styles, data-video-autoplay: '' }}
+            <button class="unmuteButton"><i class="fa fa-volume-up"></i></button>
           </div>
         {%  else %}
           {%- render 'image', cover: true, img_object: section.settings.image, wh_ratio: video_wh_ratio, loading: 'lazy' -%}
