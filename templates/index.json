@@ -368,7 +368,6 @@
     },
     "video_image_banner_t3tV6c": {
       "type": "video-image-banner",
-      "disabled": true,
       "settings": {
         "height": "use_screen_three_quarters",
         "color_bg": "palette--dark bg--invert",
@@ -376,7 +375,7 @@
         "object_position": "center-center",
         "image": "shopify:\/\/shop_images\/lucea.jpg",
         "preload_image": false,
-        "unmute": false,
+        "unmute": true,
         "show_video_mobile": true,
         "video_mobile": "shopify:\/\/files\/videos\/241104_Scandia_SIC_f5c_Mobile_trim.mp4",
         "width": "wrapper--none",
@@ -409,6 +408,7 @@
         "template--16632736514267__68772dad-964c-4777-8ff2-16b9afe1751c-16713941896631c8f3-0",
         "template--16632736514267__68772dad-964c-4777-8ff2-16b9afe1751c-16713941896631c8f3-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "use_screen_three_quarters",
         "color_bg": "palette--light bg--accent",
