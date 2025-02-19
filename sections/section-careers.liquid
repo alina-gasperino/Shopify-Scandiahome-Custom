@@ -1,0 +1,135 @@
+<!-- /sections/section-blog.liquid -->
+{%- liquid
+  assign blog = blogs["careers"]
+-%}
+
+
+<div
+  class="section-blog section-{{ section.id }} {{ section.settings.bg }} {{ section_no_title_class }} {% if show_mobile_bar %} section-without-padding-mobile{% endif %}"
+  data-section-id="{{ section.id }}"
+  data-section-type="section-blog"
+  style="--PT: {{ section.settings.padding_top }}px; --PB: {{ section.settings.padding_bottom }}px;">
+  <div class="{{ section.settings.width }} section-padding" data-wrapper>
+    <flickity-carousel>
+        <div class="">
+          {% for article in blog.articles %}
+            <div class="grid__item" data-item data-carousel-slide>
+              {% render 'career-grid-item', article: article, wh_ratio: section.settings.wh_ratio, show_preview: section.settings.show_preview, show_link: section.settings.show_link, show_tags: section.settings.show_tags, show_date: section.settings.show_date %}
+            </div>
+          {% endfor %}
+        </div>
+
+      {% if section.settings.show_view_all %}
+        <div class="text-center">
+          <a href="{{ blog.url }}" class="{{ section.settings.button_style }} section-blog__btn">
+            {{ 'collections.general.view_all' | t }}
+          </a>
+        </div>
+      {% endif %}
+    </flickity-carousel>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Careers",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "select",
+      "id": "bg",
+      "label": "Background color",
+      "default": "palette--light bg--neutral",
+      "options": [
+        { "value": "palette--light bg--neutral", "label": "Default"},
+        { "value": "palette--light bg--accent", "label": "Light"},
+        { "value": "palette--dark bg--invert", "label": "Dark"},
+        { "value": "palette--dark bg--invert--accent", "label": "Dark accent"},
+        { "value": "palette--bright bg--bright", "label": "Bright"},
+        { "value": "palette--bright bg--bright--accent", "label": "Bright accent"}
+      ]
+    },
+    {
+      "type": "select",
+      "id": "color",
+      "label": "Text color",
+      "default": "text--white",
+      "options": [
+        { "value": "text--neutral", "label": "Normal text"},
+        { "value": "text--white", "label": "White"},
+        { "value": "text--primary", "label": "Primary accent"},
+        { "value": "text--secondary", "label": "Secondary accent"},
+        { "value": "text--black", "label": "Black"},
+        { "value": "text--invert--primary", "label": "Primary dark accent"},
+        { "value": "text--invert--secondary", "label": "Secondary dark accent"},
+        { "value": "text--invert", "label": "Inverted text color"},
+        { "value": "text--bright--primary", "label": "Primary bright accent"},
+        { "value": "text--bright--secondary", "label": "Secondary bright accent"}
+      ]
+    },
+    {
+      "type": "checkbox",
+      "id": "show_view_all",
+      "label": "Show 'View all' button",
+      "default": false
+    },
+    {
+      "type": "select",
+      "id": "button_style",
+      "label": "Button style",
+      "default": "btn--outline",
+      "options": [
+        { "value": "btn-text-thick-line", "label": "Capitalized text" },
+        { "value": "btn", "label": "Solid button" },
+        { "value": "btn--soft", "label": "Soft button" },
+        { "value": "btn--outline", "label": "Outlined button" }
+      ]
+    },
+    {
+      "type": "header",
+      "content": "Section spacing"
+    },
+    {
+      "type": "select",
+      "id": "width",
+      "label": "Width",
+      "default": "wrapper",
+      "options": [
+        { "value": "wrapper--full", "label": "Full width padded" },
+        { "value": "wrapper", "label": "Page width" },
+        { "value": "wrapper--narrow", "label": "Page width narrow" }
+      ]
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 180,
+      "step": 2,
+      "unit": "px",
+      "label": "Padding top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 180,
+      "step": 2,
+      "unit": "px",
+      "label": "Padding bottom",
+      "default": 36
+    }
+  ],
+  "presets": [
+    {
+      "name": "Careers"
+    }
+  ],
+  "disabled_on": {
+    "groups": ["header","footer","aside"]
+  }
+}
+{% endschema %}

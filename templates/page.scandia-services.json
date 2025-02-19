@@ -1,0 +1,151 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "text",
+          "settings": {
+            "title": "Limited Lifetime Warranty",
+            "content": "<p>Scandia Home wants you to be satisfied with the level of comfort you experience with your new Scandia Down Sleep Pillow or Comforter and we hope you will enjoy these premium quality products for a lifetime. The Scandia Down Limited Warranty is your assurance of our quality commitment.<br\/><br\/>The warranty covers you, the original consumer from the date of your purchase or your receipt of this items and it lasts for as long as you own this item, unless it becomes void as described below. The Scandia Home Limited warranty covers all defects in materials (other than the natural filling material) and craftsmanship or malfunction of the product’s ticking (i.e. covering) on our down-filled comforters, pillows and foundations.<br\/><br\/>As use of the product over a period of years may diminish the loft of the filling material, as this is a natural product, this warranty does not extend to the filling material. Also, improper use or incorrect cleaning will also void this warranty and end the coverage.<br\/><br\/>To ensure warranty coverage continues, always keep the product in a protective covering (pillow protector or duvet cover) during use. Also, while necessary or desirable cleaning of your Scandia Down product can be performed by any professional cleaner but we recommend you use only an authorized Scandia Down dealer.<br\/><br\/>If this item is found to be defective by our Customer Service department during warranty coverage because of imperfect workmanship or imperfect ticking, it will be replaced with an item of equal or greater value, at our option.<\/p><p>Please contact 1-800-438-2431 to speak to one of our Customer Service agents in order to determine if an item is deemed defective.<\/p><p>If the item was purchased from an authorized Scandia Home store or Scandia Down dealer, simply bring or send it to your most conveniently located Scandia Home store or Scandia Down dealer with a detailed description of the problem.<br\/><br\/>Note:  Some states do not allow the exclusion or limitation of incidental or consequential damages or limitations on how long an implied warranty lasts, so the above limitations may not apply to you. This Warranty gives you specific legal rights. You may also have other rights, which vary from state to state.<\/p><p>©2023, Scandia Home® and Scandia Down® are registered trademarks of Scandia Down, LLC.<\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "text",
+          "settings": {
+            "title": "Product Adjustments",
+            "content": "<p><strong>Complimentary New Pillow Adjustment<\/strong><\/p><p>To ensure that our customers are absolutely satisfied with the level of comfort experienced with their new Scandia Down Pillow, we offer a complimentary adjustment for any down pillow up to 60 days from original purchase. We charge only for any additional down that may be added at that time. Any down removed during the adjustment process is returned to you. A copy of original sales receipt is required to redeem this benefit.<\/p><p><\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "text",
+          "settings": {
+            "title": "Loyalty Program",
+            "content": "<p>After several years of enjoyment, a pillow or comforter may begin to show general signs of wear and tear. In support of our longstanding customer relationships, Scandia offers a Customer Loyalty Program. A beloved pillow or comforter can be replaced with a NEW comparable item for a 30% discount on the current MSRP.<\/p><p>Please contact 1-800-438-2431, Monday through Friday, 9:00am to 5:00pm, to speak to a representative about our Customer Loyalty program.<\/p>"
+          }
+        },
+        "164cb4e9-633d-446e-a709-d0fbc858d883": {
+          "type": "text",
+          "settings": {
+            "title": "Bespoke Items",
+            "content": "<p>Scandia Home’s bespoke bedding takes luxury to the ultimate level. Our U.S. based manufacturing enables us to offer custom offerings in comforters, pillows, featherbeds and select linens. Let our customer service team help you design bedding tailored to your personal expectations. <\/p><p>Please call 1-800-438-2431 to speak with a Scandia Home representative about this service.<\/p><p>Note**due to their personalized nature, custom items cannot be returned.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "164cb4e9-633d-446e-a709-d0fbc858d883"
+      ],
+      "settings": {
+        "title": "Scandia Services",
+        "title_align": "text-left",
+        "title_size": 6,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#aaaaaa",
+            "title": "Free returns",
+            "text": "<p>Returns within 30 days receive a full refund.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#aaaaaa",
+            "title": "Worldwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#aaaaaa",
+            "title": "24\/7 support",
+            "text": "<p>Call us anytime at 1(800) 555-1234.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "faq",
+    "icons"
+  ]
+}

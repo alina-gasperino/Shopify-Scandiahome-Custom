@@ -1,0 +1,26 @@
+{
+  "sections": {
+    "main": {
+      "type": "customer-addresses",
+      "custom_css": [],
+      "settings": {
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e797d3f8-cc93-4da2-80b0-a88553869b35": {
+      "type": "section-html",
+      "settings": {
+        "html": "Your default address will auto populate as your shipping address at checkout.",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e797d3f8-cc93-4da2-80b0-a88553869b35"
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "colors": [
+    {
+      "white": "#FFFFFF"
+    },
+    {
+      "cream": "#EDE8D6"
+    },
+    {
+      "cafe": "#E4D2BC"
+    },
+    {
+      "heath": "#B5BFB4"
+    },
+    {
+      "ivory": "#FFFAEE"
+    },
+    {
+      "ivory*": "#FFFAEE"
+    },
+    {
+      "petal": "#F9CCC6"
+    },
+    {
+      "petal*": "#F9CCC6"
+    },
+    {
+      "rain": "#B3C6CD"
+    },
+    {
+      "shadow": "#D4D3CF"
+    },
+    {
+      "shale": "#BDB4AF"
+    },
+    {
+      "cocoa": "#6D5A4F"
+    },
+    {
+      "navy": "#3E4253"
+    },
+    {
+      "navy*": "#3E4253"
+    },
+    {
+      "cloud": "#D1E3E8"
+    },
+    {
+      "cornsilk": "#C9B992"
+    },
+    {
+      "sand": "#C6BBA7"
+    },
+    {
+      "cool gray": "#BCBCB9"
+    },
+    {
+      "mushroom": "#CCC7C1"
+    },
+    {
+      "parchment": "#DFD7C2"
+    },
+    {
+      "shark": "#898890"
+    },
+    {
+      "silver": "#EDEFEF"
+    },
+    {
+      "apricot": "#E5B497"
+    },
+    {
+      "cotton candy": "#F1E9E6"
+    },
+    {
+      "iris": "#82639F"
+    },
+    {
+      "lavender": "#AF9AC4"
+    },
+    {
+      "midnight": "#3C3C3C"
+    },
+    {
+      "sapphire": "#17606C"
+    },
+    {
+      "snow cone": "#17606C"
+    },
+    {
+      "bronze": "#b08457"
+    },
+    {
+      "charcoal": "#575052"
+    },
+    {
+      "petrol": "#3a4c64"
+    },
+    {
+      "silver": "#B6B6BB"
+    },
+    {
+      "truffle": "#9d7a64"
+    },
+    {
+      "natural": "#fffbf5"
+    },
+    {
+      "pink": "#e8d7dd"
+    },
+    {
+      "creme": "#FFFAEE"
+    },
+    {
+      "white & white": "#FFFFFF"
+    },
+    {
+      "cloud & white": "Cloud-White100px.png"
+    },
+    {
+      "cornsilk & ivory": "Cornsilk-Ivory100px.png"
+    },
+    {
+      "ivory & ivory": "Ivory-Ivory100px.png"
+    },
+    {
+      "navy stripe": "Navy-Stripe100px.png"
+    },
+    {
+      "sand & ivory": "Sand-Ivory100px.png"
+    },
+    {
+      "shadow & white": "Shadow-White100px.png"
+    },
+    {
+      "white & cream": "White-Cream100px.png"
+    },
+    {
+      "cloud & ivory": "Cloud-Ivory100px.png"
+    },
+    {
+      "white & navy": "White-Navy100px.png"
+    },
+    {
+      "beige": "#E3D0BF"
+    },
+    {
+      "beige*": "#E3D0BF"
+    },
+    {
+      "black": "#1F1F1F"
+    },
+    {
+      "black*": "#1F1F1F"
+    },
+    {
+      "brown": "#997870"
+    },
+    {
+      "camel": "#C78A6B"
+    },
+    {
+      "camel*": "#C78A6B"
+    },
+    {
+      "cornflower": "#5185E2"
+    },
+    {
+      "cornflower*": "#5185E2"
+    },
+    {
+      "dark green": "#526C58"
+    },
+    {
+      "fuschia": "#F7557F"
+    },
+    {
+      "fuschia*": "#F7557F"
+    },
+    {
+      "gold": "#E2B269"
+    },
+    {
+      "green": "#9BAF5B"
+    },
+    {
+      "green*": "#9BAF5B"
+    },
+    {
+      "grey": "#A2A2A9"
+    },
+    {
+      "lilac": "#DDB2D7"
+    },
+    {
+      "light grey": "#C8C0BB"
+    },
+    {
+      "light grey*": "#C8C0BB"
+    },
+    {
+      "orange": "#FD5231"
+    },
+    {
+      "orange*": "#FD5231"
+    },
+    {
+      "red": "#E64447"
+    },
+    {
+      "tiffany": "#8FD5D5"
+    },
+    {
+      "tiffany*": "#8FD5D5"
+    },
+    {
+      "wine": "#642130"
+    },
+    {
+      "light blue": "#A1C6CF"
+    },
+    {
+      "light blue*": "#A1C6CF"
+    },
+    {
+      "beige & ivory": "Beige-Ivory100px.png"
+    },
+    {
+      "beige & ivory*": "Beige-Ivory100px.png"
+    },
+    {
+      "brown & beige": "Brown-Beige100px.png"
+    },
+    {
+      "brown & beige*": "Brown-Beige100px.png"
+    },
+    {
+      "grey & ivory": "Grey-Ivory100px.png"
+    },
+    {
+      "grey & ivory*": "Grey-Ivory100px.png"
+    },
+    {
+      "light grey & light blue": "Light-grey-light-blue100px.png"
+    },
+    {
+      "light grey & light blue*": "Light-grey-light-blue100px.png"
+    },
+    {
+      "petal & ivory": "Petal-Ivory100px.png"
+    },
+    {
+      "petal & ivory*": "Petal-Ivory100px.png"
+    },
+    {
+      "glacier": "#E7E9EB"
+    },
+    {
+      "lilac blush": "#C4B4B7"
+    },
+    {
+      "seal": "#3C3339"
+    },
+    {
+      "shale": "#948986"
+    },
+    {
+      "cappuccino": "#DECFC3"
+    },
+    {
+      "clay": "#d17d61"
+    },
+    {
+      "ecru": "#bdac92"
+    },
+    {
+      "smoke": "#97a0a7"
+    },
+    {
+      "almond": "#d3cfc3"
+    },
+    {
+      "paradise": "#c7d1d2"
+    },
+    {
+      "blush": "#F0E1DB"
+    },
+    {
+      "linen": "#C9B29E"
+    },
+    {
+      "hydrangea": "#8D9DAA"
+    },
+    {
+      "marine": "#5E6977"
+    },
+    {
+      "alpine": "#7A8B88"
+    },
+    {
+      "rosewater": "#C6ABAA"
+    },
+    {
+      "champagne": "#CCB9A2"
+    },
+    {
+      "slate": "#B2A9A0"
+    },
+    {
+      "jade": "#49726E"
+    },
+    {
+      "ochre": "#EED991"
+    },
+    {
+      "forest": "#506350"
+    },
+    {
+      "claret": "#75393D"
+    },
+    {
+      "snow": "#ECE9E0"
+    },
+    {
+      "aegean": "#97B1C8"
+    },
+    {
+      "taupe": "#C3AC9D"
+    },
+    {
+      "fawn": "#DFCFC2"
+    },
+    {
+      "pearl": "#E3DED4"
+    },
+    {
+      "cove": "#B7BAB5"
+    },
+    {
+      "ravello linen": "#CCBEB5"
+    },
+    {
+      "champagne & white": "Champagne-White100px.png"
+    },
+    {
+      "seashell": "#cdc9c8"
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "blocks": {
+        "c3755145-0ace-4ce0-96ba-2fcab5f0d7fa": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>Store Locator<\/p>",
+            "text_size": 10
+          }
+        }
+      },
+      "block_order": [
+        "c3755145-0ace-4ce0-96ba-2fcab5f0d7fa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/scandia_pillow_landing_2014_v1.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/scandia_pillow_landing_2014_v1.jpg",
+        "height": "use_screen_one_half",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "enable_overlay_text": true,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--primary",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2467cb38-4aeb-4d34-a3c9-bc0319491921": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "25485522-c41e-414a-920a-20eebd7c3dd7": {
+          "type": "text",
+          "settings": {
+            "title": "OUR FLAGSHIP STORES",
+            "title_size": 5,
+            "text": "",
+            "body_size": 8,
+            "text_align": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "25485522-c41e-414a-920a-20eebd7c3dd7"
+      ],
+      "settings": {
+        "bg": "palette--light bg--accent",
+        "grid_large": 1,
+        "grid_medium": 1,
+        "grid_mobile": 1,
+        "width": "wrapper",
+        "padding_top": 18,
+        "padding_bottom": 0
+      }
+    },
+    "79f1ec69-69fb-4c1f-84b7-f61e4a402d46": {
+      "type": "section-icons",
+      "blocks": {
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-store",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "Beverly Hills",
+            "text": "<p>332 N Beverly Drive<br\/>Beverly Hills, CA 90210<br\/>310-860-1486<br\/><a href=\"mailto:beverlyhills@scandiahome.com\">beverlyhills@scandiahome.com<\/a><\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/pages\/scandia-home-beverly-hills"
+          }
+        },
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-store",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "Palo Alto",
+            "text": "<p>261 Hamilton Ave<br\/>Palo Alto, CA 94301<br\/>650-512-3532<br\/>650-512-3533<br\/><a href=\"mailto:paloalto@scandiahome.com\">paloalto@scandiahome.com<\/a><\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/pages\/scandia-home-palo-alto"
+          }
+        },
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-store",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "Jackson Hole",
+            "text": "<p>Cache Creek Mall<br\/>165 North Center<br\/>Jackson Hole, WY 83001<br\/>307-733-1038<br\/><a href=\"mailto:jacksonhole@scandiahome.com\">jacksonhole@scandiahome.com<\/a><\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/pages\/scandia-home-jackson-hole"
+          }
+        },
+        "ff178b79-0e56-4c20-8707-52ae9ac2b6ec": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-leaf",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "CORTE MADERA",
+            "text": "<p>The Village at Corte Madera<br\/>1618 Redwood Highway, C-022<br\/>Corte Madera, CA 94925<br\/>415-370-8740<br\/><a href=\"mailto:jacksonhole@scandiahome.com\">cortemadera@scandiahome.com<\/a><\/p>",
+            "link_text": "",
+            "link_url": "shopify:\/\/pages\/copy-of-scandia-home-corte-madera"
+          }
+        }
+      },
+      "block_order": [
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-0",
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-1",
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-2",
+        "ff178b79-0e56-4c20-8707-52ae9ac2b6ec"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "efa0cf83-9fc7-4ab7-b84f-4946d5f5962e": {
+      "type": "section-faq",
+      "blocks": {
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-0": {
+          "type": "text",
+          "settings": {
+            "title": "California",
+            "content": "<p><strong>SCANDIA HOME<\/strong><br\/>332 N Beverly Dr.<br\/>Beverly Hills, CA 90210<br\/>310-860-1486<br\/><a href=\"mailto:beverlyhills@scandiahome.com\">beverlyhills@scandiahome.com<\/a><br\/><br\/><strong>SCANDIA HOME<\/strong><br\/>261 Hamilton Ave<br\/>Palo Alto, CA 94301<br\/>650-512-3533<br\/>650-512-3532<br\/><a href=\"mailto:paloalto@scandiahome.com\">paloalto@scandiahome.com<\/a><br\/><br\/><strong>LINO BELLA<\/strong><br\/>McHenry Village<br\/>1700 McHenry Avenue<br\/>Suite 62<br\/>Modesto, CA 95350<br\/>209-491-0931<br\/><br\/><strong>TUVERSON & CO.<\/strong><br\/>73920 El Paseo<br\/>Palm Desert, CA 92260<br\/>760-346-5577<br\/><br\/><strong>ALICIA ADAMS ALPACA<\/strong><br\/>Trancas Country Market<br\/>30745 Pacific Coast HWY Suite 16<br\/>Malibu, CA 90265<br\/>310-457-7944<\/p>"
+          }
+        },
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-1": {
+          "type": "text",
+          "settings": {
+            "title": "Colorado",
+            "content": "<p><strong>LINEN KIST<br\/><\/strong>150 East Beaver Creek Blvd.<br\/>#A102B<br\/>Avon, CO 81620<br\/>970-949-7166<br\/><\/p><p><strong>ALICIA ADAMS ALPACA<br\/><\/strong>601 E. Hyman Ave<br\/>Aspen, CO 81611<br\/>970-429-4244<br\/><\/p>"
+          }
+        },
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-2": {
+          "type": "text",
+          "settings": {
+            "title": "Connecticut",
+            "content": "<p><strong>LYNNENS<br\/><\/strong>278 Greenwich Avenue<br\/>Greenwich, CT 06830<br\/>866-629-3659<br\/>203-629-3659<br\/><\/p><p><strong>FIG LINENS AND HOME<br\/><\/strong>66 Post Road East<br\/>Westport, CT 06880<br\/>203-227-8699<\/p><p><\/p><p><strong>FINE LINENS & BATH<br\/><\/strong>25 Business Park Drive<br\/>Branford, CT 06405<br\/>866-352-4522<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-0",
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-1",
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-2"
+      ],
+      "settings": {
+        "title": "Retail Locations–USA",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "29210b1c-cd2a-4e5b-9d12-1cf7dd8c3951": {
+      "type": "section-faq",
+      "blocks": {
+        "be8ea773-ef06-4a10-877b-e11364e113d4": {
+          "type": "text",
+          "settings": {
+            "title": "Florida",
+            "content": "<p><strong>ANGELA NEEL INTERIOR DESIGN<br\/><\/strong>784 N Orange Ave<br\/>Ste #112<br\/>Winter Park, FL 32789<br\/>407-740-8989<br\/><\/p><p><strong>GATTLES NAPLES<br\/><\/strong>1250 3rd St.<br\/>Naples, FL 34102<br\/>239-262-4791<br\/><a href=\"https:\/\/goo.gl\/maps\/AQ7vC3D1kzSiznd39\" target=\"_blank\"><br\/><\/a><strong>GRAND INTERIORS INTERNATIONAL<br\/><\/strong>305 De Palmas<br\/>Suite 96<br\/>Boca Raton, FL 33432<br\/>561-409-4945<br\/><\/p><p><strong>LOOM LUXURY LINENS<br\/><\/strong>303 Lewis Lane<br\/>Dania Beach, FL 33304<br\/>954-909-4442<br\/><strong><br\/>PIONEER LINENS<br\/><\/strong>210 Clematis Street<br\/>West Palm Beach, FL 33401<br\/>561-655-8553<br\/><a href=\"https:\/\/goo.gl\/maps\/iArtD4KkxSv66vKq6\" target=\"_blank\"><br\/><\/a><strong>THREAD COUNT<br\/><\/strong>125 N E 40th Street<br\/>Miami Beach, FL 33137<br\/>305-576-5500<br\/><strong><br\/>SUSAN SHEPHERD INTERIOR DESIGN<br\/><\/strong>1321 Third Sreet North<br\/>Jacksonville, FL 32250<br\/>904-853-6316<\/p>"
+          }
+        },
+        "dc4f5416-c01d-48c5-a73d-978f9344c07d": {
+          "type": "text",
+          "settings": {
+            "title": "Georgia",
+            "content": "<p><strong>GRAMERCY HOME<\/strong><br\/>2351 A Peachtree Rd NE<br\/>Atlanta, GA 30305<br\/>404-846-9244<br\/><br\/><strong>KATHRYN LEACH HOME<\/strong><br\/>56 E Andrews Dr<br\/>Suite 19<br\/>Atlanta, GA 30305<br\/>404-522-3203<br\/><br\/><strong>GRACIOUS HOME<\/strong><br\/>10 Cumming Street<br\/>Alpharetta, GA 30009<br\/>470-575-4067<\/p>"
+          }
+        },
+        "36551eb7-7c35-44a1-aaf1-5ef14a70fbe7": {
+          "type": "text",
+          "settings": {
+            "title": "Idaho",
+            "content": "<p><strong>THE PICKET FENCE<br\/><\/strong>560 East Avenue North<br\/>Ketchum, ID 83340<br\/>866-944-5511<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "be8ea773-ef06-4a10-877b-e11364e113d4",
+        "dc4f5416-c01d-48c5-a73d-978f9344c07d",
+        "36551eb7-7c35-44a1-aaf1-5ef14a70fbe7"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "21e2a2ee-3c8f-4f9d-a514-cc0f385029c0": {
+      "type": "section-faq",
+      "blocks": {
+        "313575ca-9cf6-43f0-8dff-83f0502036c9": {
+          "type": "text",
+          "settings": {
+            "title": "Illinois",
+            "content": "<p><strong>SCANDIA HOME<br\/><\/strong>900 N Michigan Ave.<br\/>L4 15<br\/>Chicago, IL 60611<br\/>312-981-1776<br\/>scandiachicago@gmail.com<\/p>"
+          }
+        },
+        "1e1b461f-8e61-408c-8c8f-d239e56b8479": {
+          "type": "text",
+          "settings": {
+            "title": "Kentucky",
+            "content": "<p><strong>BEDDED BLISS<br\/><\/strong>3936 Chenoweth Square<br\/>Louisville, KY 40207<br\/>502-899-5153<br\/><\/p><p><strong>LINENS LIMITED<br\/><\/strong>114 Clay Avenue<br\/>Lexington, KY 40502<br\/>859-233-1061<\/p>"
+          }
+        },
+        "db3939dd-344a-40e4-b0d8-5e9e21362999": {
+          "type": "text",
+          "settings": {
+            "title": "Louisiana",
+            "content": "<p><strong>THE VILLAGE WASHSTAND<br\/><\/strong>#38 Pierremont Common<br\/>6505 Line Avenue<br\/>Shreveport, LA 71106<br\/>318-865-8553<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "313575ca-9cf6-43f0-8dff-83f0502036c9",
+        "1e1b461f-8e61-408c-8c8f-d239e56b8479",
+        "db3939dd-344a-40e4-b0d8-5e9e21362999"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "eb6d84b9-77bc-42bb-beb1-fd829bc62a12": {
+      "type": "section-faq",
+      "blocks": {
+        "02d83367-7010-41a4-96be-5ac56be4b8b5": {
+          "type": "text",
+          "settings": {
+            "title": "Massachusetts",
+            "content": "<p><strong>BONSOIR<br\/><\/strong>868 Worcester St.<br\/>Wellesley, MA 02482<br\/>781-416-2800<\/p>"
+          }
+        },
+        "f1ddf45a-3557-4a6a-aabe-6d4e353d74cf": {
+          "type": "text",
+          "settings": {
+            "title": "Michigan",
+            "content": "<p><strong>SCANDIA HOME<br\/><\/strong>237 Pierce Street<br\/>Birmingham, MI 48009<br\/>248-649-7673<br\/>scandiamionline@gmail.com<\/p>"
+          }
+        },
+        "ce9fb28c-7023-4add-8490-05cb70ff2df1": {
+          "type": "text",
+          "settings": {
+            "title": "Missouri",
+            "content": "<p><strong>SCANDIA HOME<\/strong><br\/>Country Club Plaza<br\/>501 Nichols Road<br\/>Kansas City, MO 64112<br\/>800-875-4144<br\/><br\/><strong>AMELIA'S FINE LINENS<\/strong><br\/>17041 Baxter Road<br\/>Chesterfield, MO 63005<br\/>636-728-0455<br\/><br\/><strong>SALLIE HOME<\/strong><br\/>9821 Clayton Road<br\/>Saint Louis, MO 63124<br\/>314-567-7883<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "02d83367-7010-41a4-96be-5ac56be4b8b5",
+        "f1ddf45a-3557-4a6a-aabe-6d4e353d74cf",
+        "ce9fb28c-7023-4add-8490-05cb70ff2df1"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "25a3c529-6481-4c76-9efc-8c968e4b698a": {
+      "type": "section-faq",
+      "blocks": {
+        "6a233694-2470-488f-baca-41b55b7a6fa8": {
+          "type": "text",
+          "settings": {
+            "title": "Montana",
+            "content": "<p><strong>TOAD N WILLOW<br\/><\/strong>118 N 29th St<br\/>Billings, MT 59101<br\/>406-294-6040<\/p>"
+          }
+        },
+        "fcba3f0e-29a0-4fb9-b510-1deabc7c3a45": {
+          "type": "text",
+          "settings": {
+            "title": "Nebraska",
+            "content": "<p><strong>THE LINEN GALLERY<br\/><\/strong>8730 Countryside Plaza<br\/>Omaha, NE 68114<br\/>402-399-5242<\/p>"
+          }
+        },
+        "5cc7a637-0809-4c9e-a8d6-93c189eb5783": {
+          "type": "text",
+          "settings": {
+            "title": "New Mexico",
+            "content": "<p><strong>PANDORA INC.<\/strong><br\/>173 Paseo De Peralta<br\/>Santa Fe NM 87501<br\/>505-982-3298<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6a233694-2470-488f-baca-41b55b7a6fa8",
+        "fcba3f0e-29a0-4fb9-b510-1deabc7c3a45",
+        "5cc7a637-0809-4c9e-a8d6-93c189eb5783"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ece47d8a-ca80-468f-9377-2a752b1cc5a6": {
+      "type": "section-faq",
+      "blocks": {
+        "7d0bec27-28df-4e01-945b-70d0db9e13e8": {
+          "type": "text",
+          "settings": {
+            "title": "New York",
+            "content": "<p><strong>FINE LINENS<br\/><\/strong>1193 Lexington Avenue<br\/>New York, NY 10028<br\/>877-454-6366<br\/><\/p><p><strong>ALICIA ADAMS<br\/><\/strong>3262 Franklin Ave<br\/>Millbrook, NY 12545<br\/>845-868-3366<\/p>"
+          }
+        },
+        "9186f191-575e-4c24-8f26-ee3c455e193c": {
+          "type": "text",
+          "settings": {
+            "title": "North Carolina",
+            "content": "<p><strong>BEDSIDE MANOR<br\/><\/strong>6401 Morrison Blvd.<br\/>Suite 19<br\/>Charlotte, NC 28211<br\/>704-442-4006<br\/><\/p><p><strong>QUINTESSENTIALS<br\/><\/strong>4209 Lassiter Mill Rd<br\/>Suite 119<br\/>Raleigh, NC 27609<br\/>919-785-0787<\/p>"
+          }
+        },
+        "f2981f09-5cae-400c-9fe1-e98d553afa9c": {
+          "type": "text",
+          "settings": {
+            "title": "Ohio",
+            "content": "<p><strong>BLOCK BROS. AT HOME<br\/><\/strong>30495 Pinetree Rd.<br\/>Pepper Pike, OH 44124<br\/>216-360-8600<br\/><\/p><p><strong>ELIZABETH GRACE HOME<br\/><\/strong>7809-A Cooper Road<br\/>Cincinnati, OH 45242<br\/>513-871-4050<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "7d0bec27-28df-4e01-945b-70d0db9e13e8",
+        "9186f191-575e-4c24-8f26-ee3c455e193c",
+        "f2981f09-5cae-400c-9fe1-e98d553afa9c"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b0d3513c-d569-4509-9a65-a8362017e84a": {
+      "type": "section-faq",
+      "blocks": {
+        "ee64259c-d0f7-47a0-b3df-063db8c78a76": {
+          "type": "text",
+          "settings": {
+            "title": "Oklahoma",
+            "content": "<p><strong>THE DOLPHIN<\/strong><br\/>1960 Utica Square<br\/>Tulsa, OK 74114<br\/>918-743-6634<\/p>"
+          }
+        },
+        "7b9660be-f146-4643-9a38-8c8f30c6d15f": {
+          "type": "text",
+          "settings": {
+            "title": "Pennsylvania",
+            "content": "<p><strong>FEATHERS<br\/><\/strong>5408 Walnut Street<br\/>Pittsburgh, PA 15232<br\/>412-621-4700<\/p>"
+          }
+        },
+        "fbbcf76d-e6be-4c8b-8d49-3d6dcacdf135": {
+          "type": "text",
+          "settings": {
+            "title": "Rhode Island",
+            "content": "<p><strong>WENDY BROWN FINE LINENS<br\/><\/strong>190 Wayland Avenue<br\/>Providence, RI 02906<br\/>401-455-2337<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ee64259c-d0f7-47a0-b3df-063db8c78a76",
+        "7b9660be-f146-4643-9a38-8c8f30c6d15f",
+        "fbbcf76d-e6be-4c8b-8d49-3d6dcacdf135"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5bdffd5f-de67-4d4b-a4cd-7eb28757518e": {
+      "type": "section-faq",
+      "blocks": {
+        "b8077a8f-ab5d-47b9-bd84-7282e941f8bb": {
+          "type": "text",
+          "settings": {
+            "title": "Texas",
+            "content": "<p><strong>BECHANTS<\/strong><br\/>194 S. Main Street<br\/>Boerne, TX 78006<br\/>830-816-7777<br\/><\/p><p><strong>CASA DI LINO<\/strong><br\/>4026 Oak Lawn Avenue<br\/>Dallas, TX 75219<br\/>214-252-0404<br\/><br\/><strong>FEATHER YOUR NEST<\/strong><br\/>3500 Jefferson St.<br\/>Suite 120<br\/>AUSTIN, TX 78731<br\/>512-206-3555<br\/><br\/><strong>KUHL LINSCOMB<\/strong><br\/>2424 West Alabama Street<br\/>Houston, TX 77098<br\/>713-526-6000<br\/><br\/><strong>LIN MARCHE INC<\/strong><br\/>4601 Mc Cullough Ave<br\/>San Antonio, TX 78212<br\/>210-826-6771<br\/><br\/><strong>LONGORIA COLLECTION<\/strong><br\/>1101-02 Uptown Park Boulevard<br\/>Houston, TX 77056<br\/>713-621-4241<\/p>"
+          }
+        },
+        "5c095c1f-a84d-49c1-9338-2da3051cb465": {
+          "type": "text",
+          "settings": {
+            "title": "Tennessee",
+            "content": "<p><strong>GRACIOUS HOME<br\/><\/strong>1124 W. McEwen Drive<br\/>Franklin, TN 37067<br\/>615-621-0659<\/p>"
+          }
+        },
+        "bb46d4c3-9c9f-4aea-9e85-fb15693630f3": {
+          "type": "text",
+          "settings": {
+            "title": "Utah",
+            "content": "<p><strong>THE BEDROOM<br\/><\/strong>1182 Center Drive<br\/>#D130<br\/>Park City, UT 84098<br\/>435-777-8257<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b8077a8f-ab5d-47b9-bd84-7282e941f8bb",
+        "5c095c1f-a84d-49c1-9338-2da3051cb465",
+        "bb46d4c3-9c9f-4aea-9e85-fb15693630f3"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "836185af-0462-4c9c-90da-54c87f9fd51c": {
+      "type": "section-faq",
+      "blocks": {
+        "8f74239f-75a7-4e60-8d1d-425594fcf4dc": {
+          "type": "text",
+          "settings": {
+            "title": "Virginia",
+            "content": "<p><strong>PRESENT THYME<br\/><\/strong>1016 23rd Street<br\/>Roanoke, VA 24015<br\/>540-342-9706<\/p>"
+          }
+        },
+        "18bc17cd-7b5e-499b-bd9d-f381cc60dea4": {
+          "type": "text",
+          "settings": {
+            "title": "Wisconsin",
+            "content": "<p><strong>PERCY'S FINE LINENS<br\/><\/strong>1410 W. Mequon Rd.<br\/>Mequon, WI 53092<br\/>262-241-9343<\/p>"
+          }
+        },
+        "8b4f6e09-a87a-4199-b6e6-72f14ee82801": {
+          "type": "text",
+          "settings": {
+            "title": "Wyoming",
+            "content": "<p><strong>SCANDIA HOME<br\/><\/strong>Cache Creek Mall<br\/>165 North Center<br\/>Jackson Hole, WY 83001<br\/>307-733-1038<br\/><a href=\"mailto:jacksonhole@scandiahome.com\">jacksonhole@scandiahome.com<\/a><\/p><p><strong>SIDE STREET BED AND BATH<br\/><\/strong>106 N. Main St<br\/>Sheridan, WY 82801<br\/>307-675-1099<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8f74239f-75a7-4e60-8d1d-425594fcf4dc",
+        "18bc17cd-7b5e-499b-bd9d-f381cc60dea4",
+        "8b4f6e09-a87a-4199-b6e6-72f14ee82801"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "55203d99-e0bc-4ee5-b997-ee74e4a4e37d": {
+      "type": "section-faq",
+      "blocks": {
+        "78193724-5b90-4c40-9a4b-956c74072ee2": {
+          "type": "text",
+          "settings": {
+            "title": "Mexico",
+            "content": "<p><strong>RUGS N HOME<br\/><\/strong>Garza Garcia 2111-L-8<br\/>Nuevo Leon<br\/>San Pedro, Mexico 66297<br\/>956-774-0139<\/p>"
+          }
+        },
+        "466fa971-923f-4cc8-b4d1-c38d8ada1b36": {
+          "type": "text",
+          "settings": {
+            "title": "China",
+            "content": "<p><strong>LANE CRAWFORD<br\/><\/strong>Seasons Place<br\/>Xicheng District<br\/>Beijing, China<br\/>+86 10 6622 0808<\/p>"
+          }
+        },
+        "0457afe8-39af-4426-b412-8f6549b41515": {
+          "type": "text",
+          "settings": {
+            "title": "Hong Kong",
+            "content": "<p><strong>LANE CRAWFORD<br\/><\/strong>Pacific Place<br\/>88 Queensway<br\/>Admiralty, Hong Kong<br\/>+852 2801 4197<br\/><\/p><p><strong>LANE CRAWFORD<\/strong><br\/>1 Matheson Street<br\/>Times Square<br\/>Causeway Bay, Hong Kong<br\/>+852 2118 3638<br\/><\/p><p><strong>LANE CRAWFORD<br\/><\/strong>Podium 3, IFC<br\/>Central, Hong Kong<br\/>+852 2118 3388<br\/><\/p><p><strong>LANE CRAWFORD<br\/><\/strong>Kowloon Peninsula<br\/>Tsim Sha Tsui, Hong Kong<br\/>+852 2508 1234<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "78193724-5b90-4c40-9a4b-956c74072ee2",
+        "466fa971-923f-4cc8-b4d1-c38d8ada1b36",
+        "0457afe8-39af-4426-b412-8f6549b41515"
+      ],
+      "settings": {
+        "title": "Locations–International",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "2467cb38-4aeb-4d34-a3c9-bc0319491921",
+    "79f1ec69-69fb-4c1f-84b7-f61e4a402d46",
+    "efa0cf83-9fc7-4ab7-b84f-4946d5f5962e",
+    "29210b1c-cd2a-4e5b-9d12-1cf7dd8c3951",
+    "21e2a2ee-3c8f-4f9d-a514-cc0f385029c0",
+    "eb6d84b9-77bc-42bb-beb1-fd829bc62a12",
+    "25a3c529-6481-4c76-9efc-8c968e4b698a",
+    "ece47d8a-ca80-468f-9377-2a752b1cc5a6",
+    "b0d3513c-d569-4509-9a65-a8362017e84a",
+    "5bdffd5f-de67-4d4b-a4cd-7eb28757518e",
+    "836185af-0462-4c9c-90da-54c87f9fd51c",
+    "55203d99-e0bc-4ee5-b997-ee74e4a4e37d"
+  ]
+}

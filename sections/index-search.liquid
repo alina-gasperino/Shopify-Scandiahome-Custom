@@ -1,0 +1,140 @@
+<!-- /sections/index-search.liquid -->
+
+<div class="{{ section.settings.homepage_padding }} {{ section.settings.homepage_page_color }}" data-section-id="{{ section.id }}" data-section-type="index-search">
+
+{% assign grid_results = true %}
+
+{% assign respond_js_secret_key = shop.domain | md5 %}
+{% unless search.terms == respond_js_secret_key %}
+
+<div class="wrapper page-margin">
+  <div class="grid">
+    <div class="grid__item large--two-thirds push--large--one-sixth">
+
+      {% if search.performed %}
+
+        {% paginate search.results by 3 %}
+
+          {% if search.results_count == 0 %}
+
+            <h1 class="h2 title text-center">{{ 'general.search.no_results_html' | t: terms: search.terms }}</h1>
+            {% include 'search-bar' %}
+
+          {% else %}
+
+            <h1 class="h2 title text-center">{{ 'general.search.results_for_html' | t: terms: search.terms }}</h1>
+            {% include 'search-bar' %}
+
+            {% comment %}
+              Each result template, based on the grid_layout variable above
+            {% endcomment %}
+            {% if grid_results == false %}
+
+              {% for item in search.results %}
+                {% include 'search-result' %}
+              {% endfor %}
+
+            {% else %}
+
+              <div class="grid-uniform">
+                {% for item in search.results %}
+                  {% include 'search-result-grid' %}
+                {% endfor %}
+              </div>
+
+            {% endif %}
+
+          {% endif %}
+
+          {% if paginate.pages > 1 %}
+            <div class="text-center">
+              {% include 'pagination-custom' %}
+            </div>
+          {% endif %}
+
+        {% endpaginate %}
+
+      {% else %}
+
+        {% comment %}
+          If search.performed is false, someone either accessed the page without
+          the q parameter, or it was blank.
+          Be sure to show a search form here, along with anything else you want to showcase.
+        {% endcomment %}
+        <h1 class="{{ section.settings.title_type | escape }} text-center">{{ section.settings.title | escape }}</h1>
+        {% include 'search-bar' %}
+
+      {% endif %}
+
+    </div>
+  </div>
+</div>
+
+{% else %}
+  {% include 'respond' %}
+  {% layout none %}
+{% endunless %}
+
+</div>
+
+{% schema %}
+{
+  "name": "Search",
+  "settings": [
+    {
+      "type": "select",
+      "id": "homepage_page_color",
+      "label": "Background color",
+      "default": "homepage--white",
+      "options": [
+        { "value": "homepage--white", "label": "White"},
+        { "value": "homepage--light", "label": "Light"},
+        { "value": "homepage--splash", "label": "Accent"},
+        { "value": "homepage--dark", "label": "Dark"}
+      ]
+    },
+    {
+      "type": "select",
+      "id": "homepage_padding",
+      "label": "Section padding",
+      "default": "homepage-page",
+      "options": [
+        { "value": "homepage-page", "label": "Regular"},
+        { "value": "homepage-search", "label": "Small"}
+      ]
+    },
+
+    {
+      "type": "select",
+      "id": "title_type",
+      "label": "Title Format",
+      "default": "h2",
+      "options": [
+        { "value": "h2", "label": "Large"},
+        { "value": "home__subtitle", "label": "Sub-title"},
+        { "value": "hide", "label": "None"}
+      ]
+    },
+  {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Search for products"
+    }
+  ],
+
+  "presets": [
+    {
+      "name": "Search",
+      "category": "Text"
+    }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+.homepage-search {padding-bottom:30px;}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

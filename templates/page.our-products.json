@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "text",
+          "settings": {
+            "title": "What are the differences between comforter weights?",
+            "content": "<p>Scandia Down comforters are generally offered in 3 weight levels; Light, Medium and Ultra and some we offer “Ultra-Light”.  The “weight level” is a result of the amount of fill that is used in making the comforter. These levels are sometimes also identified with seasonality designations, i.e., Summer Weight, Year-Round, or Winter Weight, although these terms may be misleading in today’s climate-controlled\/air-conditioned world. Ultra-Light Weight—xx, Light Weight — ideal for warm climates, warmer bedrooms, or cool summer nights. Medium Weight — ideal for most climates, cool nights or temperature controlled bedrooms. Ultra Weight — thick and fluffy, designed for cold climates or for those who prefer little to no heat in their bedrooms.<\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "text",
+          "settings": {
+            "title": "What are the differences between pillow densities?",
+            "content": "<p>Scandia Down sleep pillows are generally offered in 3 density levels, Soft, Medium and Firm. Typically, a soft pillow will work best for stomach-sleepers, while back sleepers will prefer medium, and side sleepers may prefer firm pillows. If you are uncertain which way to go, medium pillows are a safe bet. Soft-ideal for stomach sleepers. Medium-ideal for back sleepers. Firm-ideal for side sleepers.<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "text",
+          "settings": {
+            "title": "How long will my pillow and comforter last?",
+            "content": "<p>A lifetime--summarize Limited Lifetime warranty here<\/p>"
+          }
+        },
+        "04fd464d-32fd-4346-9a8f-1909f361c4df": {
+          "type": "text",
+          "settings": {
+            "title": "What if I picked the wrong density or weight?",
+            "content": "<p>To ensure that our customers are absolutely satisfied with the level of comfort experienced with their new Scandia Down Pillow and Scandia Down Comforter, we offer a complimentary adjustment for any down pillow and\/or comforter up to 60 days from original purchase. We charge only for any additional down that may be added at that time. Any down removed during the adjustment process is returned to you. A copy of original sales receipt is required to redeem this benefit. We recommend to go “lightly” when selecting your Scandia Down Comforter. A comforter can always be adjusted upward in weight but never downward.<\/p>"
+          }
+        },
+        "f2f6c0d3-f7ff-427b-a452-aebaa27281d5": {
+          "type": "text",
+          "settings": {
+            "title": "How often should I be cleaning my pillow and comforter?",
+            "content": "<p>Depending on the habits of the household, we recommend cleaning products every 2-4 years. Duvet covers and pillow protectors should always be used and cleaned as often as necessary. When it comes time for professional cleaning, Scandia Home Customer Service can arrange for your items to be cleaned in a facility built exclusively for this type of care. Please contact 1-800-237-5337, Monday through Friday, 9:00am to 5:00pm, to speak to a representative about cleaning your Scandia Down Products.<\/p>"
+          }
+        },
+        "0fa99996-1779-4ca3-88c4-1f21a1309616": {
+          "type": "text",
+          "settings": {
+            "title": "What is down?",
+            "content": "<p>Down is the soft cluster found under the breast feathers of waterfowl like geese and ducks. It is nature's finest insulator and is a brilliant way of keeping these birds warm in frozen climates. Unlike feathers, which are flat and 2-dimensional, down clusters are structured somewhat like 3 dimensional snowflakes with dozens of soft, fine filaments. Scandia Down(r) only uses premium down from mature birds that have superior down clusters. As the filaments \"loft\" (expand and fluff), they create thousands of tiny warmth pockets, trapping air and body heat, keeping you comfortable and making our down luxuriously lightweight. We also use the largest clusters from the goose, which better interlock and overlap to trap a protective layer of air that keeps warmth in and cold out.<\/p>"
+          }
+        },
+        "e0351aa8-e755-419d-a3d2-144bcaf25a0a": {
+          "type": "text",
+          "settings": {
+            "title": "Where is the down sourced from?",
+            "content": "<p>We always tell you where our down originates from—primarily Hungary, Poland, northern Europe or Siberia—because province matters. These locations produce the finest clusters in the world. The colder the climate, the larger the clusters—therefore the better the down.<\/p>"
+          }
+        },
+        "c5bf479e-8484-4c83-9c0a-bfe30c69f8e8": {
+          "type": "text",
+          "settings": {
+            "title": "What is fill power?",
+            "content": "<p>Fill power is a measure of the loft or \"fluffiness\" of a down clusters. High fill power down gives you more warmth with much less weight. Higher fill powers are also associated with a larger percentage of down clusters and a larger average down cluster size. The larger the cluster, the greater the loft. More loft creates more warmth since the more air an ounce of the down traps, the more insulating ability it will have. As a general guide, within the industry, 500 fill-power is considered average and 800 fill-power, sublime. At Scandia Home we offer the highest of quality in natural down fills ranging from 600 to nearly 900 for the highest of quality goose down. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "04fd464d-32fd-4346-9a8f-1909f361c4df",
+        "f2f6c0d3-f7ff-427b-a452-aebaa27281d5",
+        "0fa99996-1779-4ca3-88c4-1f21a1309616",
+        "e0351aa8-e755-419d-a3d2-144bcaf25a0a",
+        "c5bf479e-8484-4c83-9c0a-bfe30c69f8e8"
+      ],
+      "settings": {
+        "title": "Our Products",
+        "title_align": "text-center",
+        "title_size": 6,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "faq"
+  ]
+}

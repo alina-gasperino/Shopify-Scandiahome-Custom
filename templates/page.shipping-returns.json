@@ -1,0 +1,149 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "text",
+          "settings": {
+            "title": "What domestic shipping options do you offer?",
+            "content": "<p>Your Scandia Home™ order will be shipped to you via FedEx. You may choose from standard delivery or have it expedited by choosing 2-day or overnight delivery for an additional cost. All orders ship with a signature requirement.<\/p><p><strong>Shipping to Alaska, Hawaii, Virgin Islands, Puerto Rico and U.S. Territories<\/strong><br\/>For all shipments, please call customer service to receive shipping quotes. Express delivery will take an additional day because of the distance.<\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "text",
+          "settings": {
+            "title": "When will my order ship?",
+            "content": "<p>Orders will ship within 48 hours and should arrive within 4-6 days after your package leaves our warehouse. Saturday delivery is not available in all areas.<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "text",
+          "settings": {
+            "title": "When will my order ship for expedited orders over a weekend?",
+            "content": "<p>If you place your order before 11:00 a.m. EST on a Friday and request overnight delivery, you will receive it on Monday. If you place your order after 11:00 a.m. EST on a Friday and request overnight delivery, you will receive it on Tuesday. If you place your order at any time on a Saturday or Sunday, and request overnight deliverey, you will receive it on Tuesday.<\/p>"
+          }
+        },
+        "04fd464d-32fd-4346-9a8f-1909f361c4df": {
+          "type": "text",
+          "settings": {
+            "title": "What international shipping options do you offer?",
+            "content": "<p>Scandia Home ™ ships to the following international destinations; Europe, Middle East, Far East, Latin & South America and North America.  Please contact us at service@scandiahome.com to receive international shipping costs. Scandia Home™ charges a flat fee to cover shipping costs, but please note that the you are responsible for paying all import duties and tariffs to the carrier upon delivery. For packages that are refused upon delivery or returned to Scandia Home, you will be responsible for all applicable duties and tariffs to import the items back to the Scandia Home facility, and the difference in shipping fees charged and the actual shipping costs paid to the carrier to and from the United States. These costs will be deducted from any amount to be credited for the return.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "04fd464d-32fd-4346-9a8f-1909f361c4df"
+      ],
+      "settings": {
+        "title": "Shipping",
+        "title_align": "text-center",
+        "title_size": 6,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "04f7dfbf-fa6e-47a5-852d-1b027ddaf7f3": {
+      "type": "section-faq",
+      "blocks": {
+        "template--16678258442459__04f7dfbf-fa6e-47a5-852d-1b027ddaf7f3-167434821910e989dc-0": {
+          "type": "text",
+          "settings": {
+            "title": "What is your return policy?",
+            "content": "<p>Scandia Home™wants you to be completely satisfied with your purchase of Scandia Down products. If you are not satisfied with your purchase, we will gladly provide a refund, merchandise exchange or credit if you return the item(s) to us within 30 days of receiving your order. Items must be unused, unlaundered and in the original packaging the same way you received them.<\/p>"
+          }
+        },
+        "template--16678258442459__04f7dfbf-fa6e-47a5-852d-1b027ddaf7f3-167434821910e989dc-1": {
+          "type": "text",
+          "settings": {
+            "title": "What is the process for making a return?",
+            "content": "<p>To start a return, please call 800-438-2431 to speak to our customer service team. Returns are refunded to the original method of payment minus shipping and handling fees, unless the item(s) received was incorrect or defective. Returns of merchandise purchased through other websites or retail stores must be arranged through those same websites or stores. We can only accept returns of merchandise purchased through scandiahome.com. Proof of purchase required.<\/p>"
+          }
+        },
+        "template--16678258442459__04f7dfbf-fa6e-47a5-852d-1b027ddaf7f3-167434821910e989dc-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "When will I receive my refund?",
+            "content": "<p>Text to come<\/p>"
+          }
+        },
+        "b73d8028-e6db-4da7-b474-1c05368ef0b0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "How do I change or cancel an order?",
+            "content": "<p>Text to come<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16678258442459__04f7dfbf-fa6e-47a5-852d-1b027ddaf7f3-167434821910e989dc-0",
+        "template--16678258442459__04f7dfbf-fa6e-47a5-852d-1b027ddaf7f3-167434821910e989dc-1",
+        "template--16678258442459__04f7dfbf-fa6e-47a5-852d-1b027ddaf7f3-167434821910e989dc-2",
+        "b73d8028-e6db-4da7-b474-1c05368ef0b0"
+      ],
+      "settings": {
+        "title": "RETURNS",
+        "title_align": "text-center",
+        "title_size": 6,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "faq",
+    "04f7dfbf-fa6e-47a5-852d-1b027ddaf7f3"
+  ]
+}

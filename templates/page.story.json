@@ -1,0 +1,850 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "blocks": {
+        "c3755145-0ace-4ce0-96ba-2fcab5f0d7fa": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>Store Locator<\/p>",
+            "text_size": 10
+          }
+        }
+      },
+      "block_order": [
+        "c3755145-0ace-4ce0-96ba-2fcab5f0d7fa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Store_locator-FPO_4b5711d4-c54b-457f-8e57-da6db72a5318.png",
+        "height": "use_screen_one_half",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "enable_overlay_text": true,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2467cb38-4aeb-4d34-a3c9-bc0319491921": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "25485522-c41e-414a-920a-20eebd7c3dd7": {
+          "type": "text",
+          "settings": {
+            "title": "OUR FLAGSHIP STORES",
+            "title_size": 5,
+            "text": "",
+            "body_size": 8,
+            "text_align": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "25485522-c41e-414a-920a-20eebd7c3dd7"
+      ],
+      "settings": {
+        "bg": "palette--light bg--accent",
+        "grid_large": 1,
+        "grid_medium": 1,
+        "grid_mobile": 1,
+        "width": "wrapper",
+        "padding_top": 18,
+        "padding_bottom": 0
+      }
+    },
+    "79f1ec69-69fb-4c1f-84b7-f61e4a402d46": {
+      "type": "section-icons",
+      "blocks": {
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-store",
+            "icon_color": "#AAAAAA",
+            "title": "Beverly Hills",
+            "text": "<p>332 N Beverly Dr.<br\/>Beverly Hills, CA 90210<br\/>310-860-1486<br\/><a href=\"mailto:beverlyhills@scandiahome.com\">beverlyhills@scandiahome.com<\/a><\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-store",
+            "icon_color": "#AAAAAA",
+            "title": "Palo Alto",
+            "text": "<p>261 Hamilton Ave<br\/>Palo Alto, CA 94301<br\/>650-512-3533<br\/>650-512-3532<br\/><a href=\"mailto:paloalto@scandiahome.com\">paloalto@scandiahome.com<\/a><\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-store",
+            "icon_color": "#AAAAAA",
+            "title": "Jackson Hole",
+            "text": "<p>Cache Creek Mall<br\/>165 North Center<br\/>Jackson Hole, WY 83001<br\/>307-733-1038<br\/><a href=\"mailto:jacksonhole@scandiahome.com\">jacksonhole@scandiahome.com<\/a><\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-0",
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-1",
+        "template--16658579783899__79f1ec69-69fb-4c1f-84b7-f61e4a402d46-1672351339a1844405-2"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "e5d8afce-4a9f-442f-84c1-e00eb3f4266e": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "template--16658579783899__e5d8afce-4a9f-442f-84c1-e00eb3f4266e-16723513309c9d833f-0": {
+          "type": "text",
+          "settings": {
+            "title": "RETAIL LOCATIONS–USA",
+            "title_size": 5,
+            "text": "",
+            "body_size": 8,
+            "text_align": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16658579783899__e5d8afce-4a9f-442f-84c1-e00eb3f4266e-16723513309c9d833f-0"
+      ],
+      "settings": {
+        "bg": "palette--light bg--accent",
+        "grid_large": 1,
+        "grid_medium": 1,
+        "grid_mobile": 1,
+        "width": "wrapper",
+        "padding_top": 18,
+        "padding_bottom": 0
+      }
+    },
+    "7f0d87a1-a992-4e11-bcf5-50c930a5a768": {
+      "type": "section-accordion",
+      "blocks": {
+        "template--16658579783899__7f0d87a1-a992-4e11-bcf5-50c930a5a768-1672351339bd0465bf-0": {
+          "type": "text",
+          "settings": {
+            "title": "SCANDIA HOME",
+            "text": "<p>332 N Beverly Dr.<br\/>Beverly Hills, CA 90210<br\/>310-860-1486<\/p>"
+          }
+        },
+        "template--16658579783899__7f0d87a1-a992-4e11-bcf5-50c930a5a768-1672351339bd0465bf-1": {
+          "type": "text",
+          "settings": {
+            "title": "SCANDIA HOME",
+            "text": "<p>261 Hamilton Ave<br\/>Palo Alto, CA 94301<br\/>650-512-3533<br\/>650-512-3532<\/p>"
+          }
+        },
+        "template--16658579783899__7f0d87a1-a992-4e11-bcf5-50c930a5a768-1672351339bd0465bf-2": {
+          "type": "text",
+          "settings": {
+            "title": "LINO BELLA",
+            "text": "<p>McHenry Village<br\/>1700 McHenry Avenue<br\/>Suite 62<br\/>Modesto, CA 95350<br\/>209-491-0931<\/p>"
+          }
+        },
+        "template--16658579783899__7f0d87a1-a992-4e11-bcf5-50c930a5a768-1672351339bd0465bf-3": {
+          "type": "text",
+          "settings": {
+            "title": "TUVERSON & CO.",
+            "text": "<p>73920 El Paseo<br\/>Palm Desert, CA 92260<br\/>760-346-5577<\/p>"
+          }
+        },
+        "a873d596-46a6-4199-bf71-a2e6ee0dd52a": {
+          "type": "text",
+          "settings": {
+            "title": "ALICIA ADAMS ALPACA",
+            "text": "<p>Trancas Country Market<br\/>30745 Pacific Coast HWY Suite 16<br\/>Malibu, CA 90265<br\/>310-457-7944<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16658579783899__7f0d87a1-a992-4e11-bcf5-50c930a5a768-1672351339bd0465bf-0",
+        "template--16658579783899__7f0d87a1-a992-4e11-bcf5-50c930a5a768-1672351339bd0465bf-1",
+        "template--16658579783899__7f0d87a1-a992-4e11-bcf5-50c930a5a768-1672351339bd0465bf-2",
+        "template--16658579783899__7f0d87a1-a992-4e11-bcf5-50c930a5a768-1672351339bd0465bf-3",
+        "a873d596-46a6-4199-bf71-a2e6ee0dd52a"
+      ],
+      "settings": {
+        "title": "California",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "9891aa07-b27a-42b9-908b-6d51dac1cb98": {
+      "type": "section-accordion",
+      "blocks": {
+        "6537375f-eb18-4e50-94e4-75c468e49739": {
+          "type": "text",
+          "settings": {
+            "title": "LINEN KIST",
+            "text": "<p>150 East Beaver Creek Blvd.<br\/>#A102B<br\/>Avon, CO 81620<br\/>970-949-7166<\/p>"
+          }
+        },
+        "1f618ec6-c952-4353-843c-85d55bd9b6df": {
+          "type": "text",
+          "settings": {
+            "title": "ALICIA ADAMS ALPACA",
+            "text": "<p>601 E. Hyman Ave<br\/>Aspen, CO 81611<br\/>970-429-4244<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6537375f-eb18-4e50-94e4-75c468e49739",
+        "1f618ec6-c952-4353-843c-85d55bd9b6df"
+      ],
+      "settings": {
+        "title": "Colorado",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "1000d8ee-21fe-403f-9b41-d523128c5b43": {
+      "type": "section-accordion",
+      "blocks": {
+        "708539bf-536f-47f8-afdd-8d47654e9482": {
+          "type": "text",
+          "settings": {
+            "title": "LYNNENS",
+            "text": "<p>278 Greenwich Avenue<br\/>Greenwich, CT 06830<br\/>866-629-3659<br\/>203-629-3659<\/p>"
+          }
+        },
+        "a4eb559b-e15b-438c-9888-6767ca53fc39": {
+          "type": "text",
+          "settings": {
+            "title": "FIG LINENS",
+            "text": "<p>66 Post Road East<br\/>Westport, CT 06880<br\/>203-227-8699<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "708539bf-536f-47f8-afdd-8d47654e9482",
+        "a4eb559b-e15b-438c-9888-6767ca53fc39"
+      ],
+      "settings": {
+        "title": "Connecticut",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "5c67142e-d62d-4152-9cfd-faba7c27c5e7": {
+      "type": "section-accordion",
+      "blocks": {
+        "898a7e53-2c81-41c6-9b56-d59e3c749385": {
+          "type": "text",
+          "settings": {
+            "title": "ANGELA NEEL INTERIOR DESIGN",
+            "text": "<p>784 N Orange Ave<br\/>Ste #112<br\/>Winter Park, FL 32789<br\/>407-740-8989<\/p>"
+          }
+        },
+        "c8101e15-1e21-49a6-936d-428bc7a03e63": {
+          "type": "text",
+          "settings": {
+            "title": "GATTLES NAPLES",
+            "text": "<p>1250 3rd St.<br\/>Naples, FL 34102<br\/>239-262-4791<\/p>"
+          }
+        },
+        "f98b9105-cefe-453f-a3a3-f00a816de15e": {
+          "type": "text",
+          "settings": {
+            "title": "GRAND INTERIORS INTERNATIONAL",
+            "text": "<p>305 De Palmas<br\/>Suite 96<br\/>Boca Raton, FL 33432<br\/>561-409-4945<\/p>"
+          }
+        },
+        "fb251677-4135-412b-9372-d38ca352a42f": {
+          "type": "text",
+          "settings": {
+            "title": "LOOM LUXURY LINENS",
+            "text": "<p>1306 E. Broward Boulevard<br\/>Ft. Lauderdale, FL 33301<br\/>954-909-4442<\/p>"
+          }
+        },
+        "8acf58f9-1dcf-470f-9047-4f87394b7e6d": {
+          "type": "text",
+          "settings": {
+            "title": "PIONEER LINENS",
+            "text": "<p>210 Clematis Street<br\/>West Palm Beach, FL 33401<br\/>561-655-8553<\/p>"
+          }
+        },
+        "e563c2e8-b8d6-43eb-92a0-b3e92e61fb16": {
+          "type": "text",
+          "settings": {
+            "title": "THREAD COUNT",
+            "text": "<p>125 N E 40th Street<br\/>Miami Beach, FL 33137<br\/>305-576-5500<\/p>"
+          }
+        },
+        "96996ce2-acb0-4a50-af7a-1aea21783c1b": {
+          "type": "text",
+          "settings": {
+            "title": "VERY FITTING",
+            "text": "<p>3301 Ocean Dr.<br\/>Vero Beach, FL 32963<br\/>772-231-4655<\/p>"
+          }
+        },
+        "fd3203b2-dae0-4fb5-ae13-305696a3768a": {
+          "type": "text",
+          "settings": {
+            "title": "SUSAN SHEPHERD INTERIOR DESIGN",
+            "text": "<p>1321 Third Sreet North<br\/>Jacksonville, FL 32250<br\/>904-853-6316<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "898a7e53-2c81-41c6-9b56-d59e3c749385",
+        "c8101e15-1e21-49a6-936d-428bc7a03e63",
+        "f98b9105-cefe-453f-a3a3-f00a816de15e",
+        "fb251677-4135-412b-9372-d38ca352a42f",
+        "8acf58f9-1dcf-470f-9047-4f87394b7e6d",
+        "e563c2e8-b8d6-43eb-92a0-b3e92e61fb16",
+        "96996ce2-acb0-4a50-af7a-1aea21783c1b",
+        "fd3203b2-dae0-4fb5-ae13-305696a3768a"
+      ],
+      "settings": {
+        "title": "Florida",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b7c8f3d5-42ac-43ba-b39c-becf350d7832": {
+      "type": "section-accordion",
+      "blocks": {
+        "68b69e7e-9b3b-44cf-b88d-0b2b5cdf0148": {
+          "type": "text",
+          "settings": {
+            "title": "GRAMERCY HOME",
+            "text": "<p>2351 A Peachtree Rd NE<br\/>Atlanta, GA 30305<br\/>404-846-9244<\/p>"
+          }
+        },
+        "36c269da-e691-4f16-9c1e-0e3a824067f8": {
+          "type": "text",
+          "settings": {
+            "title": "KATHRYN LEACH HOME",
+            "text": "<p>56 E Andrews Dr<br\/>Suite 19<br\/>Atlanta, GA 30305<br\/>404-522-3203<\/p>"
+          }
+        },
+        "aed6cfe7-268d-437b-b2c5-cfb840d6f922": {
+          "type": "text",
+          "settings": {
+            "title": "GRACIOUS HOME",
+            "text": "<p>10 Cumming Street<br\/>Alpharetta, GA 30009<br\/>470-575-4067<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "68b69e7e-9b3b-44cf-b88d-0b2b5cdf0148",
+        "36c269da-e691-4f16-9c1e-0e3a824067f8",
+        "aed6cfe7-268d-437b-b2c5-cfb840d6f922"
+      ],
+      "settings": {
+        "title": "Georgia",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "77362bcf-9062-45ba-bbb5-fd158996b48e": {
+      "type": "section-accordion",
+      "blocks": {
+        "c1e50230-dfa3-4d5f-b55a-6ad015f704b6": {
+          "type": "text",
+          "settings": {
+            "title": "THE PICKET FENCE",
+            "text": "<p>560 East Avenue North<br\/>Ketchum, ID 83340<br\/>866-944-5511<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c1e50230-dfa3-4d5f-b55a-6ad015f704b6"
+      ],
+      "settings": {
+        "title": "Idaho",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "a3222ff6-068c-436a-9040-713e945ead30": {
+      "type": "section-accordion",
+      "blocks": {
+        "23e72fec-9538-4e68-9883-5b4280eb6350": {
+          "type": "text",
+          "settings": {
+            "title": "SCANDIA HOME",
+            "text": "<p>900 N Michigan Ave.<br\/>L4 15<br\/>Chicago, IL 60611<br\/>312-981-1776<br\/>scandiachicago@gmail.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "23e72fec-9538-4e68-9883-5b4280eb6350"
+      ],
+      "settings": {
+        "title": "Illinois",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "da4ac890-9f3a-4db7-93ab-e037221d2da1": {
+      "type": "section-accordion",
+      "blocks": {
+        "02769375-008a-4975-8320-120202d0cd23": {
+          "type": "text",
+          "settings": {
+            "title": "BEDDED BLISS",
+            "text": "<p>3936 Chenoweth Square<br\/>Louisville, KY 40207<br\/>502-899-5153<\/p>"
+          }
+        },
+        "799ccf34-dc85-43b4-9fb0-2193a6999adb": {
+          "type": "text",
+          "settings": {
+            "title": "LINENS LIMITED",
+            "text": "<p>114 Clay Avenue<br\/>Lexington, KY 40502<br\/>859-233-1061<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "02769375-008a-4975-8320-120202d0cd23",
+        "799ccf34-dc85-43b4-9fb0-2193a6999adb"
+      ],
+      "settings": {
+        "title": "Kentucky",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "969bfe47-f6a8-4ed2-80b3-715b573893ae": {
+      "type": "section-accordion",
+      "blocks": {
+        "75a5e3f1-4652-417c-9a15-cefb1ce44704": {
+          "type": "text",
+          "settings": {
+            "title": "THE VILLAGE WASHSTAND",
+            "text": "<p>#38 Pierremont Common<br\/>6505 Line Avenue<br\/>Shreveport, LA 71106<br\/>318-865-8553<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "75a5e3f1-4652-417c-9a15-cefb1ce44704"
+      ],
+      "settings": {
+        "title": "Louisiana",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "9034cd0e-31c2-405e-b40d-880b0c7eab67": {
+      "type": "section-accordion",
+      "blocks": {
+        "4f7a8022-1542-4a0e-94f6-33932f16a263": {
+          "type": "text",
+          "settings": {
+            "title": "BONSOIR",
+            "text": "<p>873 Worcester St.<br\/>Ste #1<br\/>Wellesley, MA 02482<br\/>781-416-2800<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4f7a8022-1542-4a0e-94f6-33932f16a263"
+      ],
+      "settings": {
+        "title": "Massachusetts",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "ba565dcd-ea5e-4527-89d0-9c7569768d5f": {
+      "type": "section-accordion",
+      "blocks": {
+        "cc793c63-4f14-44cc-8515-7bd7c704aaa4": {
+          "type": "text",
+          "settings": {
+            "title": "SCANDIA HOME",
+            "text": "<p>237 Pierce Street<br\/>Birmingham, MI 48009<br\/>248-649-7673<br\/>scandiamionline@gmail.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "cc793c63-4f14-44cc-8515-7bd7c704aaa4"
+      ],
+      "settings": {
+        "title": "Michigan",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "e0533255-c120-4241-9190-d2f0031b287e": {
+      "type": "section-accordion",
+      "blocks": {
+        "4b552dc8-e02a-4fc2-b105-e9586c44362e": {
+          "type": "text",
+          "settings": {
+            "title": "SCANDIA HOME",
+            "text": "<p>Country Club Plaza<br\/>501 Nichols Road<br\/>Kansas City, MO 64112<br\/>800-875-4144<\/p>"
+          }
+        },
+        "94a7f569-26b6-458c-912d-704c5dda8356": {
+          "type": "text",
+          "settings": {
+            "title": "AMELIA'S FINE LINENS",
+            "text": "<p>17041 Baxter Road<br\/>Chesterfield, MO 63005<br\/>636-728-0455<\/p>"
+          }
+        },
+        "2f4c0263-8183-4ef9-a03c-1cf8b53031a0": {
+          "type": "text",
+          "settings": {
+            "title": "SALLIE HOME",
+            "text": "<p>9821 Clayton Road<br\/>Saint Louis, MO 63124<br\/>314-567-7883<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4b552dc8-e02a-4fc2-b105-e9586c44362e",
+        "94a7f569-26b6-458c-912d-704c5dda8356",
+        "2f4c0263-8183-4ef9-a03c-1cf8b53031a0"
+      ],
+      "settings": {
+        "title": "Missouri",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "8a5d426e-2bf9-44d8-9190-0a104dea7261": {
+      "type": "section-accordion",
+      "blocks": {
+        "c061f001-1ba3-4940-a524-0aaf3bf8d962": {
+          "type": "text",
+          "settings": {
+            "title": "TOAD N WILLOW",
+            "text": "<p>118 N 29th St<br\/>Billings, MT 59101<br\/>406-294-6040<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c061f001-1ba3-4940-a524-0aaf3bf8d962"
+      ],
+      "settings": {
+        "title": "Montana",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "25786dad-00f0-4dfd-a02d-b32582d36a44": {
+      "type": "section-accordion",
+      "blocks": {
+        "388872ee-e693-42aa-8a87-14b6aa17bc83": {
+          "type": "text",
+          "settings": {
+            "title": "THE LINEN GALLERY",
+            "text": "<p>8730 Countryside Plaza<br\/>Omaha, NE 68114<br\/>402-399-5242<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "388872ee-e693-42aa-8a87-14b6aa17bc83"
+      ],
+      "settings": {
+        "title": "Nebraska",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "c306e2a9-bdea-42ba-866b-a8bcbfed5ea8": {
+      "type": "section-accordion",
+      "blocks": {
+        "e8983cba-e850-496c-bad8-cd2e6ebfbf0f": {
+          "type": "text",
+          "settings": {
+            "title": "PANDORA INC.",
+            "text": "<p>173 Paseo De Peralta<br\/>Santa Fe NM 87501<br\/>505-982-3298<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "e8983cba-e850-496c-bad8-cd2e6ebfbf0f"
+      ],
+      "settings": {
+        "title": "New Mexico",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "4f34d1a7-d6f5-4675-90de-815da3b938eb": {
+      "type": "section-accordion",
+      "blocks": {
+        "b233f7dd-8b3a-4eb5-814e-64284f30feae": {
+          "type": "text",
+          "settings": {
+            "title": "FINE LINENS",
+            "text": "<p>1193 Lexington Avenue<br\/>New York, NY 10028<br\/>877-454-6366<\/p>"
+          }
+        },
+        "b5e850fe-b2c7-4c31-b37c-6111ffbc5b47": {
+          "type": "text",
+          "settings": {
+            "title": "GRACIOUS HOME",
+            "text": "<p>1210 Third Avenue<br\/>New York, NY 10021<br\/>212-517-6300<\/p>"
+          }
+        },
+        "84d421a2-2052-44e5-bf02-99980854b515": {
+          "type": "text",
+          "settings": {
+            "title": "ALICIA ADAMS",
+            "text": "<p>3262 Franklin Ave<br\/>Millbrook, NY 12545<br\/>845-868-3366<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b233f7dd-8b3a-4eb5-814e-64284f30feae",
+        "b5e850fe-b2c7-4c31-b37c-6111ffbc5b47",
+        "84d421a2-2052-44e5-bf02-99980854b515"
+      ],
+      "settings": {
+        "title": "New York",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "b284116f-cb48-49e7-b06d-abb91a779739": {
+      "type": "section-accordion",
+      "blocks": {
+        "89a118b5-2864-4ef6-b37c-3cb00abbe307": {
+          "type": "text",
+          "settings": {
+            "title": "BEDSIDE MANOR",
+            "text": "<p>6401 Morrison Blvd.<br\/>Suite 19<br\/>Charlotte, NC 28211<br\/>704-442-4006<\/p>"
+          }
+        },
+        "33bd4f0e-1b74-4bca-bcb3-c2f3fe96c164": {
+          "type": "text",
+          "settings": {
+            "title": "PORTER & PRINCE LTD.",
+            "text": "<p>6 Brook Street<br\/>Asheville, NC 28803<br\/>828-277-2337<\/p>"
+          }
+        },
+        "2e35ae4c-c6de-4541-958e-044f7533ddeb": {
+          "type": "text",
+          "settings": {
+            "title": "QUINTESSENTIALS",
+            "text": "<p>4209 Lassiter Mill Rd<br\/>Suite 119<br\/>Raleigh, NC 27609<br\/>919-785-0787<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "89a118b5-2864-4ef6-b37c-3cb00abbe307",
+        "33bd4f0e-1b74-4bca-bcb3-c2f3fe96c164",
+        "2e35ae4c-c6de-4541-958e-044f7533ddeb"
+      ],
+      "settings": {
+        "title": "North Carolina",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "e1328a58-9bb3-4864-96b9-83dc7f06ce6e": {
+      "type": "section-accordion",
+      "blocks": {
+        "d8c92e11-7139-4e90-83ce-ce97f680d7bd": {
+          "type": "text",
+          "settings": {
+            "title": "BLOCK BROS. AT HOME",
+            "text": "<p>30495 Pinetree Rd.<br\/>Pepper Pike, OH 44124<br\/>216-360-8600<\/p>"
+          }
+        },
+        "8b9ca7a4-a7cc-49ab-9958-ef0d63ccf456": {
+          "type": "text",
+          "settings": {
+            "title": "ELIZABETH GRACE HOME",
+            "text": "<p>7809-A Cooper Road<br\/>Cincinnati, OH 45242<br\/>513-871-4050<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d8c92e11-7139-4e90-83ce-ce97f680d7bd",
+        "8b9ca7a4-a7cc-49ab-9958-ef0d63ccf456"
+      ],
+      "settings": {
+        "title": "Ohio",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "499cd6b2-e371-4280-886d-87cff38a0b50": {
+      "type": "section-accordion",
+      "blocks": {
+        "4e6d3f8b-cf43-436a-88a4-62e235757763": {
+          "type": "text",
+          "settings": {
+            "title": "THE DOLPHIN",
+            "text": "<p>1960 Utica Square<br\/>Tulsa, OK 74114<br\/>918-743-6634<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4e6d3f8b-cf43-436a-88a4-62e235757763"
+      ],
+      "settings": {
+        "title": "Oklahoma",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 0
+      }
+    },
+    "efa0cf83-9fc7-4ab7-b84f-4946d5f5962e": {
+      "type": "section-faq",
+      "blocks": {
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-0": {
+          "type": "text",
+          "settings": {
+            "title": "Pennsylvania",
+            "content": "<p><strong>FEATHERS<br\/><\/strong>5408 Walnut Street<br\/>Pittsburgh, PA 15232<br\/>412-621-4700<\/p>"
+          }
+        },
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-1": {
+          "type": "text",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        },
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-2": {
+          "type": "text",
+          "settings": {
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-0",
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-1",
+        "template--16658579783899__efa0cf83-9fc7-4ab7-b84f-4946d5f5962e-16723513329ed32a3d-2"
+      ],
+      "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "2467cb38-4aeb-4d34-a3c9-bc0319491921",
+    "79f1ec69-69fb-4c1f-84b7-f61e4a402d46",
+    "e5d8afce-4a9f-442f-84c1-e00eb3f4266e",
+    "7f0d87a1-a992-4e11-bcf5-50c930a5a768",
+    "9891aa07-b27a-42b9-908b-6d51dac1cb98",
+    "1000d8ee-21fe-403f-9b41-d523128c5b43",
+    "5c67142e-d62d-4152-9cfd-faba7c27c5e7",
+    "b7c8f3d5-42ac-43ba-b39c-becf350d7832",
+    "77362bcf-9062-45ba-bbb5-fd158996b48e",
+    "a3222ff6-068c-436a-9040-713e945ead30",
+    "da4ac890-9f3a-4db7-93ab-e037221d2da1",
+    "969bfe47-f6a8-4ed2-80b3-715b573893ae",
+    "9034cd0e-31c2-405e-b40d-880b0c7eab67",
+    "ba565dcd-ea5e-4527-89d0-9c7569768d5f",
+    "e0533255-c120-4241-9190-d2f0031b287e",
+    "8a5d426e-2bf9-44d8-9190-0a104dea7261",
+    "25786dad-00f0-4dfd-a02d-b32582d36a44",
+    "c306e2a9-bdea-42ba-866b-a8bcbfed5ea8",
+    "4f34d1a7-d6f5-4675-90de-815da3b938eb",
+    "b284116f-cb48-49e7-b06d-abb91a779739",
+    "e1328a58-9bb3-4864-96b9-83dc7f06ce6e",
+    "499cd6b2-e371-4280-886d-87cff38a0b50",
+    "efa0cf83-9fc7-4ab7-b84f-4946d5f5962e"
+  ]
+}

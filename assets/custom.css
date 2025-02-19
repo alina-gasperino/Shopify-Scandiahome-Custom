@@ -1,0 +1,218 @@
+.header__desktop {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.header__desktop__bar__c {
+  width: 100%;
+  order: 1;
+}
+.header__desktop__bar__l,
+.header__desktop__bar__r {
+  order: 2;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+.header__desktop__bar__l {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.standard__heading {
+  text-align: center;
+}
+.career_item {
+  border-bottom: 1px solid #e2e2e2;
+  padding: 50px 0;
+}
+.career_item-content, .career_meta {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+}
+.career_item-content {
+  cursor: pointer;
+}
+.career_item-content h3:hover {
+  text-decoration: underline;
+}
+.career_details ul li {
+  list-style: disc;
+}
+.apply {
+  background: #7390ca;
+  width: 300px;
+  padding: 20px;
+  color: #fff;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+.career_meta {
+  margin-top: 30px;
+}
+.career_container {
+  border: 1px solid rgba(0, 0, 0, .1);
+  box-shadow: 1px 1px 7px #0000001a;
+  border-radius: var(--radius-sm);
+  padding: 50px;
+  margin-bottom: 36px;
+}
+.career_apply {
+  text-align: center;
+  margin: 30px 0;
+}
+.career_apply button{
+  background: #e49327;
+  color: #fff;
+  width: 300px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+@media screen and (min-width: 1024px) {
+  .header__logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.product-add-popdown:not(.has-errors) {
+  min-height: 50px;
+}
+.product-add-popdown {
+  transform: none;
+}
+.product-add-popdown {
+  background: var(--COLOR-ANNOUNCEMENT-BG);
+}
+.product__popdown__textbar {
+  margin-top: 10px;
+}
+.product__popdown__outer > .wrapper {
+  display: none;
+}
+
+.icon--medium .icon__column__icon {
+    width: 55px;
+    height: 55px;
+}
+
+#shopify-section-sections--16869846679771__announcement{
+
+position: sticky !important; 
+z-index: 5000;
+top: 0;
+}
+
+.btn--outline {
+  background: #d1dff1;
+}
+
+.swatch__button label, .swatch__label {
+border: 1px solid #C0C0C0;
+}
+
+@media screen and (min-width: 750px) {
+  .homepage-search {
+    display: none;
+  }
+}
+/* Make all swatch selects white
+.swatch__button input:checked ~ label:after {
+  border: 2px solid #ffffff;
+}*/
+
+/* Make swatch selects black*/
+.swatch__button label[data-swatch*="Ivory"]:after, .swatch__button .swatch__label[data-swatch*="Ivory"]:after,
+.swatch__button label[data-swatch^="Creme"]:after, .swatch__button .swatch__label[data-swatch^="Creme"]:after,
+.swatch__button label[data-swatch^="Silver"]:after, .swatch__button .swatch__label[data-swatch^="Silver"]:after,
+.swatch__button label[data-swatch*="White"]:after, .swatch__button .swatch__label[data-swatch*="White"]:after {
+    --bg: var(--text-light);
+}
+
+/* Turn off search in mobile nav*/
+.drawer__search{
+display: none !important;
+}
+
+
+/* use this to change swatch size */
+.form__selectors .swatch__button {
+    --swatch-size: 40px;
+    --swatch-offset: 3px;
+}
+/* end */
+
+/* Show cart count instead of dot */
+.header__desktop__buttons--icons .header__cart__status [data-header-cart-full=true],
+.header__mobile__button .header__cart__status [data-header-cart-full=true]{
+  display: none;
+}
+.header__desktop__buttons--icons .header__cart__status [data-header-cart-count]:not([data-header-cart-count="0"]), 
+.header__mobile__button .header__cart__status [data-header-cart-count]:not([data-header-cart-count="0"]){
+  height: auto;
+  width: auto;
+  position: relative !important;
+  clip: auto;
+  margin: auto;
+  overflow: auto;
+  margin-left: 5px;
+  top: 3px;
+}
+/* end */
+
+/* CSS - Hide the product add popdown */
+.product-add-popdown{
+display: none !important;
+}
+/* end */
+
+.drawer__underlay {
+    opacity: 80%;
+}
+
+.image_mobile {
+  display: none;
+}
+.video_desktop {
+  display: block;
+  position: relative;
+}
+.video_desktop video, .video_mobile video {
+  display: block;
+}
+.unmuteButton {
+  position: absolute;
+  top: 0;
+  font-size: 24px;
+  background: grey;
+  left: 0;
+  height: 40px;
+  width: 40px;
+}
+.career_description_desktop {
+  display: block;
+}
+.career_description_mobile {
+  display: none;
+}
+
+@media screen and (max-width: 500px) {
+  .image_mobile, .career_description_mobile, .career_item-content {
+    display: block;
+  }
+  .video_desktop, .career_description_desktop, .career_meta {
+    display: none;
+  }
+  .video_mobile {
+    position: relative;
+  }
+  .career_container {
+    padding: 20px;
+  }
+  .career_description_mobile {
+    margin-top: 30px;
+  }
+}

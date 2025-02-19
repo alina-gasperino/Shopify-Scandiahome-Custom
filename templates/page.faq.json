@@ -1,0 +1,161 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "text",
+          "settings": {
+            "title": "Our Products",
+            "content": "<p><strong>What are the differences between comforter weights?<\/strong><\/p><p>Scandia Down comforters are generally offered in 3 weight levels; Light, Medium and Ultra and some we offer “Ultra-Light”.  The “weight level” is a result of the amount of fill that is used in making the comforter. These levels are sometimes also identified with seasonality designations, i.e., Summer Weight, Year-Round, or Winter Weight, although these terms may be misleading in today’s climate-controlled\/air-conditioned world. Ultra-Light Weight—ideal for warm sleepers. The lightest weight comparable to a blanket.  Light Weight — ideal for warm climates, warmer bedrooms, or cool summer nights. Medium Weight — ideal for most climates, cool nights or temperature controlled bedrooms. Ultra Weight — thick and fluffy, designed for cold climates or for those who prefer little to no heat in their bedrooms.<\/p><p><strong>What are the differences between pillow densities?<\/strong><\/p><p>Scandia Down sleep pillows are generally offered in 3 density levels, Soft, Medium and Firm. Typically, a soft pillow will work best for stomach-sleepers, while back sleepers will prefer medium, and side sleepers may prefer firm pillows. If you are uncertain which way to go, medium pillows are a safe bet. Soft-ideal for stomach sleepers. Medium-ideal for back sleepers. Firm-ideal for side sleepers.<\/p><p><strong>How long will my pillow and comforter last?<\/strong><\/p><p>Scandia Home wants you to be absolutely satisfied with the level of comfort you experience with your new Scandia Down Sleep Pillow or Comforter and we hope you will enjoy these premium quality products for a lifetime. The Scandia Down Limited Lifetime Warranty is your assurance of our quality commitment. For more information on our warranty, head over to Scandia Services for details<\/p><p><strong>What if I picked the wrong density for my sleep pillow?<\/strong><\/p><p>To ensure that our customers are absolutely satisfied with the level of comfort experienced with their new Scandia Down Pillow, we offer a complimentary adjustment for any down pillow up to 60 days from original purchase. We charge only for any additional down that may be added at that time. Any down removed during the adjustment process is returned to you. A copy of original sales receipt is required to redeem this benefit. <\/p><p><strong>How often should I be cleaning my pillow and comforter?<\/strong><\/p><p>Depending on the habits of the household, we recommend cleaning products every 2-4 years. Duvet covers and pillow protectors should always be used and cleaned as often as necessary. When it comes time for professional cleaning, Scandia Home Customer Service can arrange for your items to be cleaned in a facility built exclusively for this type of care. Please contact 1-800-438-2431, Monday through Friday, 9:00am to 5:00pm, to speak to a representative about cleaning your Scandia Down Products.<\/p><p><strong>What is down?<\/strong><\/p><p>Down is the soft cluster found under the breast feathers of waterfowl like geese and ducks. It is nature's finest insulator and is a brilliant way of keeping these birds warm in frozen climates. Unlike feathers, which are flat and 2-dimensional, down clusters are structured somewhat like 3 dimensional snowflakes with dozens of soft, fine filaments. Scandia Down only uses premium down from mature birds that have superior down clusters. As the filaments \"loft\" (expand and fluff), they create thousands of tiny warmth pockets, trapping air and body heat, keeping you comfortable and making our down luxuriously lightweight. We also use the largest clusters from the goose, which better interlock and overlap to trap a protective layer of air that keeps warmth in and cold out.<\/p><p><strong>Where is the down sourced from?<\/strong><\/p><p>We always tell you where our down originates from—primarily Hungary, Poland, northern Europe or Siberia—because province matters. These locations produce the finest clusters in the world. The colder the climate, the larger the clusters—therefore the better the down.<\/p><p><strong>What is fill power?<\/strong><\/p><p>Fill power is a measure of the loft or \"fluffiness\" of a down clusters. High fill power down gives you more warmth with much less weight. Higher fill powers are also associated with a larger percentage of down clusters and a larger average down cluster size. The larger the cluster, the greater the loft. More loft creates more warmth since the more air an ounce of the down traps, the more insulating ability it will have. As a general guide, within the industry, 500 fill-power is considered average and 800 fill-power, sublime. At Scandia Home we offer the highest of quality in natural down fills ranging from 600 to nearly 900 for the highest of quality goose down. <\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "text",
+          "settings": {
+            "title": "Orders",
+            "content": "<p><strong>Which payment methods do you accept?<\/strong><\/p><p>We accept Visa, MasterCard, Discover and American Express credit cards. <\/p><p><strong>When will I be charged?<\/strong><\/p><p>You will be charged as soon as an order is placed with us. <\/p><p><strong>What if I need to modify or cancel my order?<\/strong><\/p><p>If we have not yet shipped your order, you can request a change or cancel your order. For fastest service, call us at 1-800-438-2431. If you have just submitted your order online, send an email to service@scandiahome.com. Be sure to include your full name and address information, as well as your order confirmation number. Please provide complete details on the information that you would like to correct or change. When we have made the change on your order, we will send you an email confirmation. If we are unable to change or cancel your order, we will notify you via email. If it has already shipped, simply return the items that you do not want and will credit your account for the items returned (excluding delivery charges).<\/p><p><strong>What if an item I ordered is unavailable?<\/strong><\/p><p>Occasionally, a product is more popular than we anticipated, and we temporarily run out of stock. When that happens, we will immediately notify you via email with the anticipated shipping date. Most items that are backordered are expected to arrive in our fulfillment center within 30 days. We ship all ordered items as they become available, so if you have ordered more than one item and any of those items is on backorder, you will receive multiple shipments. <\/p><p><strong>Can I place a custom order?<\/strong><\/p><p>Our bespoke bedding takes luxury to the ultimate level. Our U.S.-based manufacturing enables us to offer custom offerings in comforters, pillows, featherbeds and select linens. Let our customer service team help you design bedding tailored to your personal expectations. Please call 800-438-2431 to speak to a Scandia Home customer service representative about this service.  Also note: due to their personalized nature, custom items cannot be returned. <\/p><p><strong>What is the status of my order?<\/strong><\/p><p>All orders are processed the same day they are received, whether it's placed here at our website or by phone at at our toll-free number. Most items you order are \"in-stock\" inventory. Please allow up to 2 business days for us to process your order for these items. When placing an order online, you will automatically receive an order confirmation message via email. You will also be given an order number on the order confirmation page after you submit your order.<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "text",
+          "settings": {
+            "title": "Shipping",
+            "content": "<p><strong>What domestic shipping options do you offer?<\/strong><\/p><p>Your Scandia Home™ order will be shipped to you via FedEx. You may choose from standard delivery or have it expedited by choosing 2-day or overnight delivery for an additional cost. We do not ship to PO Boxes. <strong>All orders ship with a signature requirement.<\/strong><\/p><p><strong>Do you ship to Alaska, Hawaii, Puerto Rico, or U.S. Virgin Islands?<\/strong><\/p><p>For all shipments, please call our customer service team at 800-438-2431 and they will assist you in placing the order.<\/p><p><strong>Extra cost for heavy weight items?<\/strong><\/p><p>Yes, our featherbeds will endure an additional heavyweight shipping charge.  For Standard Shipping=$50, for Two Day Shipping=$225, and for Overnight Shipping=$450.<\/p><p><strong>When will my order ship?<\/strong><\/p><p>Orders will ship within 48 hours and should arrive within 4-6 days after your package leaves our warehouse. Saturday delivery is not available in all areas.<\/p><p><strong>When will my order ship for expedited orders over a weekend?<\/strong><\/p><p>If you place your order before 11:00 a.m. EST on a Friday and request overnight delivery, you will receive it on Monday. If you place your order after 11:00 a.m. EST on a Friday and request overnight delivery, you will receive it on Tuesday. If you place your order at any time on a Saturday or Sunday, and request overnight delivery, you will receive it on Tuesday.<\/p><p><strong>What international shipping options do you offer?<\/strong><\/p><p>Scandia Home ™ ships to the following international destinations; Europe, Middle East, Far East, Latin & South America and North America.  Please contact us at service@scandiahome.com to receive international shipping costs. Scandia Home™ charges a flat fee to cover shipping costs, but please note that the you are responsible for paying all import duties and tariffs to the carrier upon delivery. For packages that are refused upon delivery or returned to Scandia Home, you will be responsible for all applicable duties and tariffs to import the items back to the Scandia Home facility, and the difference in shipping fees charged and the actual shipping costs paid to the carrier to and from the United States. These costs will be deducted from any amount to be credited for the return.<\/p>"
+          }
+        },
+        "164cb4e9-633d-446e-a709-d0fbc858d883": {
+          "type": "text",
+          "settings": {
+            "title": "Returns",
+            "content": "<p><strong>What is your return policy?<\/strong><\/p><p>Scandia Home™wants you to be completely satisfied with your purchase of Scandia Home products. If you are not satisfied with your purchase, we will gladly provide a refund, merchandise exchange or credit if you return the item(s) to us within 30 days of receiving your order. Items must be unused, unlaundered and in the original packaging the same way you received them.<\/p><p><strong>What is the process for making a return?<\/strong><\/p><p>To start a return, please call 800-438-2431 to speak to our customer service team. Returns are refunded to the original method of payment minus shipping and handling fees, unless the item(s) received was incorrect or defective. Returns of merchandise purchased through other websites or retail stores must be arranged through those same websites or stores. We can only accept returns of merchandise purchased through scandiahome.com. Proof of purchase required.<\/p><p><\/p>"
+          }
+        },
+        "de4cbad3-ece2-4f7e-927f-a52f16eb45f4": {
+          "type": "text",
+          "settings": {
+            "title": "Discounts & Promotions",
+            "content": "<p><strong>Does Scandia Home offer any promotions?<\/strong><\/p><p>Promotional offers may be advertised via email, social media, our website, and our flagship retail locations. Sign up for our newsletter and receive emails on all upcoming promotions.<\/p><p><strong>Do you offer a trade discount?<\/strong><\/p><p>Understanding the unique needs of interior designers and architects is key to the ongoing success of the Scandia Home brand. We are fully committed to supporting the trade and are always ready to help you with your design projects. Whether you need help selecting the right Scandia Down bedding for a certain project, seek information about any of the wide array of Scandia Home bed and bath products or have a question about an item from one of the other brands on our site, we are here to support your needs. The Scandia Home Designer Program offers accredited interior designers generous discounts on Scandia Home and Scandia Down items with no limitations on the number of items purchased. Discounts from third-party brands may also be available.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "164cb4e9-633d-446e-a709-d0fbc858d883",
+        "de4cbad3-ece2-4f7e-927f-a52f16eb45f4"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions",
+        "title_align": "text-left",
+        "title_size": 6,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "disabled": true,
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#aaaaaa",
+            "title": "Free returns",
+            "text": "<p>Returns within 30 days receive a full refund.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "disabled": true,
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#aaaaaa",
+            "title": "Worldwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "disabled": true,
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#aaaaaa",
+            "title": "24\/7 support",
+            "text": "<p>Call us anytime at 1(800) 555-1234.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "faq",
+    "icons"
+  ]
+}

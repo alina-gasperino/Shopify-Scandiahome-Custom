@@ -1,0 +1,122 @@
+<div class="wrapper section-padding section-{{ section.id }}">
+    <article class="grid__item career_container">
+        <header>
+            <h1 class="blog__article__title heading-size-7" style="text-align: center;">{{ article.title }}</h1>
+        </header>
+        <div class="career_apply"><button><a href="/pages/apply">Apply Now</a></button></div>
+        <div class="career_full">
+            <div class="career_position">
+                {% if article.metafields.custom.position %}
+                    <p style="font-weight: bold;">Position: </p>
+                    {{ article.metafields.custom.position | metafield_tag  }}
+                {% endif %}
+            </div>
+            <div class="career_responsibilities">
+                <p style="font-weight: bold;">Responsibilities: </p>
+                {% if article.metafields.custom.store_environment %}
+                    <p style="text-decoration: underline;">Store Environment: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.store_environment.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if article.metafields.custom.sales %}
+                    <p style="text-decoration: underline;">Sales: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.sales.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if article.metafields.custom.customer_service %}
+                    <p style="text-decoration: underline;">Customer Service: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.customer_service.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if article.metafields.custom.merchandising %}
+                    <p style="text-decoration: underline;">Merchandising: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.merchandising.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if article.metafields.custom.purchasing %}
+                    <p style="text-decoration: underline;">Purchasing: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.purchasing.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if article.metafields.custom.marketing %}
+                    <p style="text-decoration: underline;">Marketing: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.marketing.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if article.metafields.custom.staffing %}
+                    <p style="text-decoration: underline;">Staffing: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.staffing.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if article.metafields.custom.operations %}
+                    <p style="text-decoration: underline;">Operations: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.operations.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+
+                {% if article.metafields.custom.other %}
+                    <p style="text-decoration: underline;">Other: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.other.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </div>
+
+            <div class="career_qualifications">
+                {% if article.metafields.custom.qualifications %}
+                    <p style="font-weight: bold;">Qualifications: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.qualifications.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </div>
+
+            <div class="career_compensation_package">
+                {% if article.metafields.custom.compensation_package %}
+                    <p style="font-weight: bold;">Compensation package: </p>
+                    <ul>
+                        {% for value in article.metafields.custom.compensation_package.value %}
+                        <li>{{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </div>
+        </div>
+        <div class="career_apply"><button><a href="/pages/apply">Apply Now</a></button></div>
+    </article>
+</div>

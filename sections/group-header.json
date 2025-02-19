@@ -1,0 +1,67 @@
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "announcement": {
+      "type": "announcement",
+      "blocks": {
+        "8cd80545-c3d8-4d89-8098-e98cc396f434": {
+          "type": "text",
+          "settings": {
+            "text": "<p>enjoy complimentary standard shipping<\/p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "8cd80545-c3d8-4d89-8098-e98cc396f434"
+      ],
+      "custom_css": [],
+      "settings": {
+        "text_size": 2,
+        "layout": "slider",
+        "speed": 5,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        ".theme__header {position: absolute; top: 36px;}"
+      ],
+      "settings": {
+        "header_style": "logo_center",
+        "logo": "shopify:\/\/shop_images\/scandiahomelogo-1-nobkgd_efb5a385-dee2-4f33-8da1-dfee03d581d1.png",
+        "logo_max_limit": 240,
+        "logo_padding": 0,
+        "logo_text_size": 5,
+        "main_menu_linklist": "main-menu",
+        "mobile_menu_linklist": "",
+        "full_width": true,
+        "underline_current": true,
+        "enable_search": true,
+        "enable_account": true,
+        "use_icons": true,
+        "header_sticky": "sticky",
+        "transparent_home": false,
+        "transparent_collection": false,
+        "transparent_blog": false,
+        "transparent_article": false,
+        "transparent_page": false,
+        "transparent_text_color": "#ffffff",
+        "show_collection_images": true,
+        "collection_wh_ratio": 2.5
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}

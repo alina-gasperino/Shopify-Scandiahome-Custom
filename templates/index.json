@@ -1,0 +1,1195 @@
+{
+  "sections": {
+    "index_search_bwzkVQ": {
+      "type": "index-search",
+      "custom_css": [],
+      "settings": {
+        "homepage_page_color": "homepage--white",
+        "homepage_padding": "homepage-search",
+        "title_type": "h2",
+        "title": ""
+      }
+    },
+    "hero": {
+      "type": "section-hero",
+      "blocks": {
+        "9447a45f-7cc0-4754-b72f-8dad1ffa28a4": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "a serene summer starts here",
+            "enable_line": false,
+            "text_size": 7
+          }
+        },
+        "c8d89ec6-35db-4058-af42-e3113912366f": {
+          "type": "heading",
+          "settings": {
+            "title": "LUCEA SEA ISLAND COLLECTION",
+            "text_size": 10
+          }
+        },
+        "text_ATAAVN": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>Transform every night into a dreamlike retreat<\/p>",
+            "text_size": 6
+          }
+        },
+        "text_UxRi7t": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>Use Code: SUMMER24<\/p>",
+            "text_size": 6
+          }
+        },
+        "3ec0d00d-62b4-4114-a7f2-c34bfc792437": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "DISCOVER NOW",
+            "link_1": "shopify:\/\/collections\/lucea",
+            "button_size_1": "btn--medium",
+            "button_style_1": "btn--soft",
+            "button_color_1": "btn--white",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "caps--link",
+            "button_color_2": "btn--primary",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "caps--link",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "9447a45f-7cc0-4754-b72f-8dad1ffa28a4",
+        "c8d89ec6-35db-4058-af42-e3113912366f",
+        "text_ATAAVN",
+        "text_UxRi7t",
+        "3ec0d00d-62b4-4114-a7f2-c34bfc792437"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SCANDIA_Lucea_Sea_Island_Version_1_Shot_1_073_Palm-Main_final.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/SCANDIA_Lucea_Sea_Island_Version_1_Shot_1_065_Clean-Main_final.jpg",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 5,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 1200,
+        "text_align": "align--top-left",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_hero_kJJ4tL": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_bL98yg": {
+          "type": "heading",
+          "settings": {
+            "title": "THE LUCEA SEA ISLAND COLLECTION",
+            "text_size": 11
+          }
+        },
+        "kicker_NKwLgk": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "Extraordinary lightness and silk-like feel, immerse yourself in our new bath collection",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "text_HwrktE": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "<h4>A modern adaptation on embroidery<\/h4>",
+            "text_size": 11
+          }
+        },
+        "text_EkzNdj": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "<h4>of a luxury everyday staple with a one-of-a-kind finish<\/h4>",
+            "text_size": 11
+          }
+        },
+        "text_N8fRLJ": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "<h4>everyday staple with a one-of-a-kind finish<\/h4>",
+            "text_size": 12
+          }
+        },
+        "button_BWPhEm": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "EXPLORE NOW",
+            "link_1": "shopify:\/\/collections\/lucea",
+            "button_size_1": "btn--large btn--long",
+            "button_style_1": "btn--outline",
+            "button_color_1": "btn--white",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "caps--link",
+            "button_color_2": "btn--primary",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "caps--link",
+            "button_color_3": "btn--white"
+          }
+        },
+        "spacer_RBTVrD": {
+          "type": "spacer",
+          "settings": {
+            "spacer_padding": 40,
+            "show_line": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bL98yg",
+        "kicker_NKwLgk",
+        "text_HwrktE",
+        "text_EkzNdj",
+        "text_N8fRLJ",
+        "button_BWPhEm",
+        "spacer_RBTVrD"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SCANDIA_Lucea_Sea_Island_Version_1_Shot_1_073_Palm-Main_final_5f5870fe-dab4-4df4-8008-a7930a82e52f.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/241104_Scandia_Ecom_Lucea_Canopy_1080x1350_543cbc59-4c86-47e1-b3cd-872c8ad6e956.jpg",
+        "height": "use_image",
+        "overlay_opacity": 5,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 1450,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--full",
+        "padding_top": 38,
+        "padding_bottom": 38
+      }
+    },
+    "tabs": {
+      "type": "section-collection-tabs",
+      "blocks": {
+        "collection_diGnkJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "tab-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Scandia Down"
+          }
+        },
+        "tab-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "Essential bedding"
+          }
+        }
+      },
+      "block_order": [
+        "collection_diGnkJ",
+        "tab-0",
+        "tab-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Featured Collections",
+        "progress_bar": "mobile",
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "limit": 6,
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "03ae8d2d-5cd2-4802-abd0-293d85795d58": {
+      "type": "section-list-collections",
+      "blocks": {
+        "template--16632736514267__03ae8d2d-5cd2-4802-abd0-293d85795d58-1668560962bbf8c8b2-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "classic-collection",
+            "image": "shopify:\/\/shop_images\/Classic_Collection-header.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "top_text": "",
+            "top_text_disabled": true,
+            "title": "Classic Collection",
+            "title_disabled": false,
+            "bottom_text": "Shop Collection",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        },
+        "template--16632736514267__03ae8d2d-5cd2-4802-abd0-293d85795d58-1668560962bbf8c8b2-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "luxurious-collection",
+            "image": "shopify:\/\/shop_images\/SUPREME-HEADER.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "top_text": "",
+            "top_text_disabled": true,
+            "title": "Luxurious Collection",
+            "title_disabled": false,
+            "bottom_text": "Shop Collection",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        },
+        "03d3a030-4a62-4c12-b950-d7ce4090431f": {
+          "type": "collection",
+          "settings": {
+            "collection": "supreme-collection",
+            "image": "shopify:\/\/shop_images\/SUPREME-HEADER_a5a34f26-9990-406a-a65a-a9e7266455c8.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "top_text": "",
+            "top_text_disabled": true,
+            "title": "Supreme Collection",
+            "title_disabled": false,
+            "bottom_text": "Shop Collection",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        }
+      },
+      "block_order": [
+        "template--16632736514267__03ae8d2d-5cd2-4802-abd0-293d85795d58-1668560962bbf8c8b2-1",
+        "template--16632736514267__03ae8d2d-5cd2-4802-abd0-293d85795d58-1668560962bbf8c8b2-0",
+        "03d3a030-4a62-4c12-b950-d7ce4090431f"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Shop Our Down Collections",
+        "bg": "palette--light bg--accent",
+        "enable_carousel": false,
+        "progress_bar": "mobile",
+        "wh_ratio": 1,
+        "grid_large": 3,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "font_family": "heading",
+        "title_size": 7,
+        "accent_size": 3,
+        "width": "wrapper",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "section_html_yFwWNm": {
+      "type": "section-html",
+      "custom_css": [
+        "{background-color: #f8f3ee;}"
+      ],
+      "settings": {
+        "html": "<div style='text-align: center; padding-top: 30px; padding-bottom: 10px 0;'><h2 class='kicker-flourished'>Explore our new collections<\/h2><\/div>",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_gallery_AGiAV7": {
+      "type": "section-gallery",
+      "blocks": {
+        "image_9DAfJH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lisetta_Cloud_Surrey_Throw_HERO_0188.jpg",
+            "link": "https:\/\/www.scandiahome.com\/collections\/lisetta"
+          }
+        },
+        "image_4YB7gj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cosima_Stack_HERO_0151.jpg",
+            "link": "https:\/\/www.scandiahome.com\/products\/cosima-bath-towels"
+          }
+        },
+        "image_QdQ7Yj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SCANDIA_Torcello_Throw-Shot_14_518_Main_final_1_d01d02da-cd2f-4c2d-8da4-1b05c868076a.jpg",
+            "link": "https:\/\/www.scandiahome.com\/collections\/throws"
+          }
+        }
+      },
+      "block_order": [
+        "image_9DAfJH",
+        "image_4YB7gj",
+        "image_QdQ7Yj"
+      ],
+      "settings": {
+        "scale_image": true,
+        "wh_ratio": 1,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 3,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_image_banner_t3tV6c": {
+      "type": "video-image-banner",
+      "settings": {
+        "height": "use_screen_three_quarters",
+        "color_bg": "palette--dark bg--invert",
+        "video_bg": "shopify:\/\/files\/videos\/241104_Scandia_SIC_f5c.mp4",
+        "object_position": "center-center",
+        "image": "shopify:\/\/shop_images\/lucea.jpg",
+        "preload_image": false,
+        "unmute": true,
+        "show_video_mobile": true,
+        "video_mobile": "shopify:\/\/files\/videos\/241104_Scandia_SIC_f5c_Mobile_trim.mp4",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "68772dad-964c-4777-8ff2-16b9afe1751c": {
+      "type": "section-video",
+      "blocks": {
+        "template--16632736514267__68772dad-964c-4777-8ff2-16b9afe1751c-16713941896631c8f3-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "text_size": 10
+          }
+        },
+        "template--16632736514267__68772dad-964c-4777-8ff2-16b9afe1751c-16713941896631c8f3-1": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "popup_text": "",
+            "button_width": 80,
+            "button_color": "text--white"
+          }
+        }
+      },
+      "block_order": [
+        "template--16632736514267__68772dad-964c-4777-8ff2-16b9afe1751c-16713941896631c8f3-0",
+        "template--16632736514267__68772dad-964c-4777-8ff2-16b9afe1751c-16713941896631c8f3-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_three_quarters",
+        "color_bg": "palette--light bg--accent",
+        "video_bg": "shopify:\/\/files\/videos\/241104_Scandia_SIC_f5c.mp4",
+        "object_position": "center-center",
+        "preload_image": false,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "overlay_opacity": 10,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_hero_DBktUn": {
+      "type": "section-hero",
+      "blocks": {
+        "kicker_ALCPpt": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 3
+          }
+        },
+        "text_9ipbFm": {
+          "type": "text",
+          "settings": {
+            "richtext": "<h2><strong>          Discover all of our luxuries for the bed & bath <\/strong><\/h2>",
+            "text_size": 6
+          }
+        },
+        "heading_K86eAb": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "text_size": 10
+          }
+        },
+        "text_JKTAU4": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>during our Summer Sale. 20% off with code SUMMER24<\/p>",
+            "text_size": 5
+          }
+        },
+        "button_mFPfFx": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "SHOP NOW",
+            "link_1": "shopify:\/\/collections\/down-comforters",
+            "button_size_1": "btn--large btn--long",
+            "button_style_1": "btn uppercase",
+            "button_color_1": "btn--secondary",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "caps--link",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "caps--link",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_ALCPpt",
+        "text_9ipbFm",
+        "heading_K86eAb",
+        "text_JKTAU4",
+        "button_mFPfFx"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1920x1080_SCANDIA_LINEN_CLOSET_956_offWhite.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/chamonix-comforter-scandiahome-siberianwhitedown-5-web.jpg",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 1400,
+        "text_align": "align--middle-right",
+        "text_color": "text--primary",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f0a0be28-c844-4a06-affc-2ccd4e8e5147": {
+      "type": "section-list-collections",
+      "blocks": {
+        "bc2c0edf-01d7-4c5c-b7ed-2d3a5bdb902c": {
+          "type": "collection",
+          "settings": {
+            "collection": "bedding",
+            "image": "shopify:\/\/shop_images\/1920x1920_SCANDIA_VIENNA_842.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/1920x1920_SCANDIA_VIENNA_842.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "top_text": "",
+            "top_text_disabled": true,
+            "title": "Bedding",
+            "title_disabled": false,
+            "bottom_text": "Shop Bedding",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        },
+        "432ef39a-b186-4530-84de-ece24868528a": {
+          "type": "collection",
+          "settings": {
+            "collection": "linens",
+            "image": "shopify:\/\/shop_images\/Scandia_Home_Stresa_934-HEADER.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Scandia_Home_Stresa_934-HEADER.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "top_text": "",
+            "top_text_disabled": true,
+            "title": "Linens",
+            "title_disabled": false,
+            "bottom_text": "Shop Linens",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        },
+        "bf5a4f67-4390-47db-89ee-5bc04d126fbd": {
+          "type": "collection",
+          "settings": {
+            "collection": "bath",
+            "image": "shopify:\/\/shop_images\/1920x1920_towel_indulgance_stack_ivory.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/1920x1920_towel_indulgance_stack_ivory.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "top_text": "",
+            "top_text_disabled": true,
+            "title": "Bath",
+            "title_disabled": false,
+            "bottom_text": "Shop Bath",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        },
+        "665288e6-9035-4933-b517-0bcfa4c1449c": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "image": "shopify:\/\/shop_images\/Scandia_Home_Down_Robe_1130.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Scandia_Home_Down_Robe_1130.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "top_text": "",
+            "top_text_disabled": true,
+            "title": "Accessories",
+            "title_disabled": false,
+            "bottom_text": "Shop Travel & Gifts",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        }
+      },
+      "block_order": [
+        "bc2c0edf-01d7-4c5c-b7ed-2d3a5bdb902c",
+        "432ef39a-b186-4530-84de-ece24868528a",
+        "bf5a4f67-4390-47db-89ee-5bc04d126fbd",
+        "665288e6-9035-4933-b517-0bcfa4c1449c"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Shop by Category",
+        "bg": "palette--light bg--accent",
+        "enable_carousel": false,
+        "progress_bar": "mobile",
+        "wh_ratio": 1,
+        "grid_large": 4,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "font_family": "heading",
+        "title_size": 7,
+        "accent_size": 3,
+        "width": "wrapper",
+        "padding_top": 70,
+        "padding_bottom": 70
+      }
+    },
+    "d2cff994-6929-4017-9b2f-12c1ed83ffb9": {
+      "type": "section-hero",
+      "blocks": {
+        "template--16632736514267__d2cff994-6929-4017-9b2f-12c1ed83ffb9-16713941889fa8d070-0": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "WRAP YOURSELF IN LUXURY",
+            "enable_line": false,
+            "text_size": 8
+          }
+        },
+        "template--16632736514267__d2cff994-6929-4017-9b2f-12c1ed83ffb9-16713941889fa8d070-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "<h6><strong>Scandia Home continues to bring the  best of European style and comfort to discerning homes. <\/strong><\/h6><h6><strong>Exceptional materials and outstanding craftsmanship have made our name synonymous with fine bedding the world around.<\/strong><\/h6>",
+            "text_size": 7
+          }
+        },
+        "text_pmWpEC": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "",
+            "text_size": 6
+          }
+        },
+        "template--16632736514267__d2cff994-6929-4017-9b2f-12c1ed83ffb9-16713941889fa8d070-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "text_size": 10
+          }
+        },
+        "template--16632736514267__d2cff994-6929-4017-9b2f-12c1ed83ffb9-16713941889fa8d070-3": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "Experience the height of luxury",
+            "link_1": "shopify:\/\/collections\/lucea",
+            "button_size_1": "btn--large btn--long",
+            "button_style_1": "btn--soft",
+            "button_color_1": "btn--white",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "btn--outline",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "caps--link",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "template--16632736514267__d2cff994-6929-4017-9b2f-12c1ed83ffb9-16713941889fa8d070-0",
+        "template--16632736514267__d2cff994-6929-4017-9b2f-12c1ed83ffb9-16713941889fa8d070-2",
+        "text_pmWpEC",
+        "template--16632736514267__d2cff994-6929-4017-9b2f-12c1ed83ffb9-16713941889fa8d070-1",
+        "template--16632736514267__d2cff994-6929-4017-9b2f-12c1ed83ffb9-16713941889fa8d070-3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/241007_Scandia_Lucea_Collage_f2a.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Collage_mobile_2.jpg",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 1300,
+        "text_align": "align--bottom-left",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_hero_JUt3jE": {
+      "type": "section-hero",
+      "blocks": {
+        "kicker_fckJaw": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "",
+            "enable_line": false,
+            "text_size": 3
+          }
+        },
+        "text_Jndx3T": {
+          "type": "text",
+          "settings": {
+            "richtext": "<h2><strong> 50 Years of Comfort<\/strong><\/h2>",
+            "text_size": 6
+          }
+        },
+        "heading_XDG7qY": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "text_size": 10
+          }
+        },
+        "text_ej6cWt": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>during our Summer Sale. 20% off with code SUMMER24<\/p>",
+            "text_size": 5
+          }
+        },
+        "button_zFcPMf": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "SHOP NOW",
+            "link_1": "shopify:\/\/collections\/down-comforters",
+            "button_size_1": "btn--large btn--long",
+            "button_style_1": "btn uppercase",
+            "button_color_1": "btn--secondary",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "caps--link",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "caps--link",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_fckJaw",
+        "text_Jndx3T",
+        "heading_XDG7qY",
+        "text_ej6cWt",
+        "button_zFcPMf"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/chamonix-comforter-scandiahome-siberianwhitedown-5-web.jpg",
+        "height": "use_pixels_500",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 1400,
+        "text_align": "align--middle-right",
+        "text_color": "text--primary",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "e7b5dbff-9c05-4c60-a2d3-9324a4f13f02": {
+      "type": "section-recent-products",
+      "disabled": true,
+      "settings": {
+        "bg": "palette--light bg--accent",
+        "product_recently_heading": "recommended for you",
+        "product_recently_limit": 6,
+        "product_recently_minimum": 3,
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_small": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom": {
+      "type": "section-custom-content",
+      "blocks": {
+        "video-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "down-pillows",
+            "kicker": "",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#d7c7ba",
+            "bg_accent": "#ffffff"
+          }
+        },
+        "video-1": {
+          "type": "video",
+          "settings": {
+            "object_position": "center-top",
+            "video_link": "",
+            "popup_text": "",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "video-0",
+        "video-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "use_pixels_500",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--none",
+        "padding_top": 48,
+        "padding_bottom": 80
+      }
+    },
+    "product-grid": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured Products",
+        "collection": "",
+        "grid": 4,
+        "rows": 2,
+        "grid_mobile": "2",
+        "bg": "palette--light bg--accent",
+        "show_view_all": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ad310ade-b428-4369-881b-d728f41ce339": {
+      "type": "section-icons",
+      "blocks": {
+        "template--16632736514267__ad310ade-b428-4369-881b-d728f41ce339-1671394987ed412217-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-sewing-machine",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "American-made since 1971",
+            "text": "<p>Discover the Scandia Difference<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "template--16632736514267__ad310ade-b428-4369-881b-d728f41ce339-1671394987ed412217-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-ruler",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "60-day pillow adjustments",
+            "text": "<p>We make sure it's just right<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "template--16632736514267__ad310ade-b428-4369-881b-d728f41ce339-1671394987ed412217-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "Limited lifetime warranty",
+            "text": "<p>We stand behind our quality<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "942e63db-a6f7-471a-a4d6-1c00805057d1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-legal",
+            "icon_alt": "shopify:\/\/shop_images\/Scandia-icon-_aaaaaa.png",
+            "icon_color": "#aaaaaa",
+            "title": "Certificate of authenticity",
+            "text": "<p>All products are guaranteed authentic<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16632736514267__ad310ade-b428-4369-881b-d728f41ce339-1671394987ed412217-0",
+        "template--16632736514267__ad310ade-b428-4369-881b-d728f41ce339-1671394987ed412217-1",
+        "template--16632736514267__ad310ade-b428-4369-881b-d728f41ce339-1671394987ed412217-2",
+        "942e63db-a6f7-471a-a4d6-1c00805057d1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper--full",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_icons_Jwn8Fy": {
+      "type": "section-icons",
+      "blocks": {
+        "icon_block_M9Xhrx": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-sewing-machine",
+            "icon_alt": "shopify:\/\/shop_images\/Artboard_1_2x_fbbdfc6a-8201-4fc8-8762-bcb5d18e49b3.png",
+            "icon_color": "#aaaaaa",
+            "title": "American-made since 1971",
+            "text": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_UHr9XN": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-ruler",
+            "icon_alt": "shopify:\/\/shop_images\/Artboard_1_2x_fbbdfc6a-8201-4fc8-8762-bcb5d18e49b3.png",
+            "icon_color": "#aaaaaa",
+            "title": "60-day pillow adjustments",
+            "text": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_VHYMPd": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-award",
+            "icon_alt": "shopify:\/\/shop_images\/Artboard_1_2x_fbbdfc6a-8201-4fc8-8762-bcb5d18e49b3.png",
+            "icon_color": "#aaaaaa",
+            "title": "Limited lifetime warranty",
+            "text": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icon_block_KibEhd": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-legal",
+            "icon_alt": "shopify:\/\/shop_images\/Artboard_1_2x_fbbdfc6a-8201-4fc8-8762-bcb5d18e49b3.png",
+            "icon_color": "#aaaaaa",
+            "title": "Certificate of authenticity",
+            "text": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icon_block_M9Xhrx",
+        "icon_block_UHr9XN",
+        "icon_block_VHYMPd",
+        "icon_block_KibEhd"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".icon__column__heading {font-size: 13px;}"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--dark bg--invert",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper--full",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "double": {
+      "type": "section-double",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/down_pillows_stacked-scandia_home--1-reviews.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--top-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "kicker": "why choose scandia?",
+            "title": "",
+            "text": "<p>“If you are in the market for some new bedding and want to treat yourself, I highly recommend Scandia Home” - <strong>Kate Arrends \/ @witanddelight_<\/strong><\/p><p><strong> <\/strong>“My Salzburg comforter and pillows have brought a new level of coziness to my bedroom” - <strong>Andre Jordan Hilton \/ @andre_jordan_hilton<\/strong><\/p><p>“This is what dreams are made of — I’ve never slept better until I discovered Scandia Home” - <strong>Jill Higginson \/ @jillhigginson<\/strong><\/p><p>“We’ve been sleeping like babies with our new Scandia Home bedding” - <strong>Heldy \/ @lavenderrosehome<\/strong><\/p>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--primary",
+            "button_style": "btn--soft btn--long uppercase",
+            "text_color": "text--neutral",
+            "bg_color": "#f8f3ee"
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "use_pixels_500",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--full",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cols": {
+      "type": "section-columns",
+      "blocks": {
+        "column-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Feature products or reviews",
+            "text": "<p>Add a video popup link to show a play button.  Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft uppercase",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "column-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Add a popup video",
+            "text": "<p>Add a video popup link to show a play button.  Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft uppercase",
+            "enable_video": true,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "column-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Share promotions or articles",
+            "text": "<p>Add a video popup link to show a play button.  Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft uppercase",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Text columns with images",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "wh_ratio": 1,
+        "grid_large": 3,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "progress_bar_mobile": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#abda92",
+            "title": "Free returns",
+            "text": "<p>Returns within 30 days receive a full refund.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#92c1da",
+            "title": "Wordwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#f4a482",
+            "title": "24\/7 support",
+            "text": "<p>Call us anytime at 1(800) 555-1234.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "index_search_bwzkVQ",
+    "hero",
+    "section_hero_kJJ4tL",
+    "tabs",
+    "03ae8d2d-5cd2-4802-abd0-293d85795d58",
+    "section_html_yFwWNm",
+    "section_gallery_AGiAV7",
+    "video_image_banner_t3tV6c",
+    "68772dad-964c-4777-8ff2-16b9afe1751c",
+    "section_hero_DBktUn",
+    "f0a0be28-c844-4a06-affc-2ccd4e8e5147",
+    "d2cff994-6929-4017-9b2f-12c1ed83ffb9",
+    "section_hero_JUt3jE",
+    "e7b5dbff-9c05-4c60-a2d3-9324a4f13f02",
+    "custom",
+    "product-grid",
+    "ad310ade-b428-4369-881b-d728f41ce339",
+    "section_icons_Jwn8Fy",
+    "double",
+    "cols",
+    "icons"
+  ]
+}

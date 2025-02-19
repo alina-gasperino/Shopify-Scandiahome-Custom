@@ -1,0 +1,364 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/lucerne-scandia_home--1-landing.jpg",
+        "height": "use_image",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "enable_overlay_text": true,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom-content-2": {
+      "type": "section-custom-content",
+      "blocks": {
+        "custom-content-2-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Five Decades of Comfort",
+            "text": "<p>For over 50 years, Scandia Home has brought the best of European-style and luxurious comfort to discerning homes.  A commitment to uncompromised quality, enduring style and a total white glove experience, ensures that our Scandia Down® offerings and curated assortment of fine linens will elevate your everyday experiences in the best way possible.<\/p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#f8f3ee"
+          }
+        }
+      },
+      "block_order": [
+        "custom-content-2-0"
+      ],
+      "settings": {
+        "height": "use_screen_one_third",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--none",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "dee26da4-2ead-49e7-8eae-0f948008ab1f": {
+      "type": "section-custom-content",
+      "blocks": {
+        "7dae3108-4ade-4d7c-9ca8-c92ecc1d2e0b": {
+          "type": "text",
+          "settings": {
+            "kicker": "THE DIFFERENCE LIES IN:",
+            "title": "The Origin",
+            "text": "<p>The comfort and quality our customers desire and count on can only be achieved with the finest materials.  With our longtime manufacturing partner, Peter Kohl, located in Flörsheim am Main, Germany, we’ve traveled across Europe sourcing the finest down.  Our impressive assortment of down fills gives each Scandia Down®  product its own story. <\/p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#f8f3ee"
+          }
+        },
+        "c204e990-42ba-456b-970d-b721a03d7ee7": {
+          "type": "video",
+          "settings": {
+            "object_position": "center-center",
+            "image": "shopify:\/\/shop_images\/origin-scandia_home--1-our_difference.jpg",
+            "video_link": "",
+            "popup_text": "",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "link_text": "",
+            "link": "shopify:\/\/pages\/faq",
+            "button_color": "btn--white",
+            "button_style": "btn--soft"
+          }
+        }
+      },
+      "block_order": [
+        "7dae3108-4ade-4d7c-9ca8-c92ecc1d2e0b",
+        "c204e990-42ba-456b-970d-b721a03d7ee7"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "custom-content-1": {
+      "type": "section-custom-content",
+      "blocks": {
+        "custom-content-1-0": {
+          "type": "video",
+          "settings": {
+            "object_position": "center-center",
+            "image": "shopify:\/\/shop_images\/the_down-scandia_home--1-our_difference.jpg",
+            "video_link": "",
+            "popup_text": "",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "custom-content-1-1": {
+          "type": "text",
+          "settings": {
+            "kicker": "THE DIFFERENCE LIES IN:",
+            "title": "The Down",
+            "text": "<p><strong>Impeccable Purity<\/strong><\/p><p>Scandia Down®  products reflect the industry’s highest standards for down cleanliness. Only premium down that has been thoroughly cleaned and sanitized to exacting specifications is used in our products.<\/p><p><strong>Animal Welfare<\/strong><\/p><p>Scandia Home has an ongoing commitment to the humane sourcing of our natural fills. In 2016, we adopted the Responsible Down Standard (RDS) and all Scandia Down® products are made with only RDS-certified down fill. RDS ensures that the animals used for our down fills are never subjected to inhumane practices.<\/p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#f8f3ee"
+          }
+        }
+      },
+      "block_order": [
+        "custom-content-1-0",
+        "custom-content-1-1"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "3dde5f3f-e46b-421e-a41b-c8a422b14fa4": {
+      "type": "section-custom-content",
+      "blocks": {
+        "cd5a5403-bc0a-4585-b7cd-47fe453a4907": {
+          "type": "text",
+          "settings": {
+            "kicker": "THE DIFFERENCE LIES IN:",
+            "title": "Our Craftsmanship",
+            "text": "<p><strong>Dedicated skill meets the finest materials<\/strong><\/p><p>Scandia Down® materials arrive at our dedicated factory in La Crosse, Wisconsin where they are crafted into the world’s most luxurious down-filled pillows and comforters.<\/p><p>The most exceptional quality European down becomes fill for pillow and comforter shells made from superior down-proof fabrics. Sourced from renowned European mills and woven to exact specifications, our shells ensure optimal comfort and performance in Scandia Down® products.<\/p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#f8f3ee"
+          }
+        },
+        "cb14812d-eb63-4e0a-9c2e-f275b1786e68": {
+          "type": "video",
+          "settings": {
+            "object_position": "center-center",
+            "image": "shopify:\/\/shop_images\/our_craftsmanship-scandia_home--2-our_difference.jpg",
+            "video_link": "",
+            "popup_text": "",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "link_text": "",
+            "link": "shopify:\/\/pages\/faq",
+            "button_color": "btn--white",
+            "button_style": "btn--soft"
+          }
+        }
+      },
+      "block_order": [
+        "cd5a5403-bc0a-4585-b7cd-47fe453a4907",
+        "cb14812d-eb63-4e0a-9c2e-f275b1786e68"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "bfdf5128-22f3-44fa-873b-37c772277994": {
+      "type": "section-custom-content",
+      "blocks": {
+        "b083765f-bac3-421e-a6b5-01cb363b36cb": {
+          "type": "video",
+          "settings": {
+            "object_position": "center-center",
+            "image": "shopify:\/\/shop_images\/our_commitment-scandia_home--1-our_difference.jpg",
+            "video_link": "",
+            "popup_text": "",
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "f314ca49-8039-4c3f-b52d-5351c3acdb87": {
+          "type": "text",
+          "settings": {
+            "kicker": "THE DIFFERENCE LIES IN:",
+            "title": "Our Commitment",
+            "text": "<p><strong>Your comfort is our goal.<\/strong><\/p><p>As proof of our committment to superior quality and craftsmanship, each Scandia Down® product is hand-inspected and delivered with a signed Certificate of Authenticity.  This ensures that the item you have purchased meets our strictest factory specifications.  Additionally, our Scandia Down® Limited Lifetime Warranty is your assurance of our quality commitment – you can enjoy our premium products for years to come. <\/p><p>Comfort is our primary goal and we want to make sure you’re satisfied with your purchase.  We offer an adjustment for Scandia Down® sleep pillows within 60 days of original purchase. <\/p><p>Afterall, heirloom quality products should last a lifetime. <br\/><br\/><\/p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-center",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "caps--link",
+            "text_color": "text--neutral",
+            "bg_color": "#f8f3ee"
+          }
+        }
+      },
+      "block_order": [
+        "b083765f-bac3-421e-a6b5-01cb363b36cb",
+        "f314ca49-8039-4c3f-b52d-5351c3acdb87"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#aaaaaa",
+            "title": "Free returns",
+            "text": "<p>Returns within 30 days receive a full refund.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#aaaaaa",
+            "title": "Worldwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#aaaaaa",
+            "title": "24\/7 support",
+            "text": "<p>Call us anytime at 1(800) 555-1234.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-left",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "custom-content-2",
+    "dee26da4-2ead-49e7-8eae-0f948008ab1f",
+    "custom-content-1",
+    "3dde5f3f-e46b-421e-a41b-c8a422b14fa4",
+    "bfdf5128-22f3-44fa-873b-37c772277994",
+    "icons"
+  ]
+}

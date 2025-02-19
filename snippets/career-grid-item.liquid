@@ -1,0 +1,138 @@
+<!-- /snippets/article-grid-item.liquid -->
+
+{% comment %}
+  * An article block that fills the container with an image with overlayed title
+  * section_width {number} - section width setting (e.g. 'wrapper', 'wrapper--full')
+  * section_columns {number} - number of columns in the section this article is a part of
+
+  {% render 'article-grid-item', article: article, wh_ratio: section.settings.wh_ratio, show_author: section.settings.show_author, show_preview: section.settings.show_preview, show_link: section.settings.show_link %}
+{% endcomment %}
+
+<div class="career_item">
+    <div class="career_item-content">
+        <h3 class="career_item-title heading-size-6 mb-0">{{ article.title }}</h3>
+
+        <div class="career_description_desktop">
+            <p>{{ article.content }}</p>
+        </div>
+    </div>
+
+    <div class="career_details" style="display: none;">
+        <div class="career_description_mobile">
+            <p>{{ article.content }}</p>
+        </div>
+        <div class="career_meta">
+            <div class="left_career">
+                <div class="career_responsibilities">
+                    <p style="font-weight: bold;">Responsibilities: </p>
+                    {% if article.metafields.custom.store_environment %}
+                        <p style="text-decoration: underline;">Store Environment: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.store_environment.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if article.metafields.custom.sales %}
+                        <p style="text-decoration: underline;">Sales: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.sales.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if article.metafields.custom.customer_service %}
+                        <p style="text-decoration: underline;">Customer Service: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.customer_service.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if article.metafields.custom.merchandising %}
+                        <p style="text-decoration: underline;">Merchandising: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.merchandising.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if article.metafields.custom.purchasing %}
+                        <p style="text-decoration: underline;">Purchasing: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.purchasing.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if article.metafields.custom.marketing %}
+                        <p style="text-decoration: underline;">Marketing: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.marketing.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if article.metafields.custom.staffing %}
+                        <p style="text-decoration: underline;">Staffing: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.staffing.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if article.metafields.custom.operations %}
+                        <p style="text-decoration: underline;">Operations: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.operations.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if article.metafields.custom.other %}
+                        <p style="text-decoration: underline;">Other: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.other.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                </div>                
+            </div>
+
+            <div class="right_career">
+                <div class="career_qualifications">
+                    {% if article.metafields.custom.qualifications %}
+                        <p style="font-weight: bold;">Qualifications: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.qualifications.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                </div>
+
+                <div class="career_compensation_package">
+                    {% if article.metafields.custom.compensation_package %}
+                        <p style="font-weight: bold;">Compensation package: </p>
+                        <ul>
+                            {% for value in article.metafields.custom.compensation_package.value %}
+                            <li>{{ value }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                </div>
+
+                <button class="apply"><a href="{{ article.url }}">Apply for this position</a></button>
+            </div>
+        </div>
+    </div>
+</div>

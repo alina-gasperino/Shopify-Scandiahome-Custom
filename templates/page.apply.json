@@ -1,0 +1,91 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": true,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "section_richtext_NJ9JxU": {
+      "type": "section-richtext",
+      "blocks": {
+        "text_RyfNNQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Do not enter your social security number, date of birth, drivers license number, or other private information, even if you are asked for it!<\/strong><\/p><p>Here at Ninja Gig we value your privacy. Before applying, make sure the company you are applying with is legit. After your application, be careful about transmitting sensitive information online or e-mail. By applying for a job, you agree to be bound by our Terms, Privacy, and Cookie Policies.<\/p><p><strong>The Americans with Disabilities Act of 1990<\/strong> -- if you would like an alternative way to apply please contact the employer directly.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "text_RyfNNQ"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_contact_4edqMX": {
+      "type": "section-contact",
+      "blocks": {
+        "text_ikmX7D": {
+          "type": "text",
+          "settings": {
+            "title": "Full Name"
+          }
+        },
+        "email_afjN3y": {
+          "type": "email",
+          "settings": {
+            "title": "Email"
+          }
+        },
+        "body_HnBDbt": {
+          "type": "body",
+          "settings": {
+            "title": "Message"
+          }
+        }
+      },
+      "block_order": [
+        "text_ikmX7D",
+        "email_afjN3y",
+        "body_HnBDbt"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-center",
+        "button_size": "btn--long",
+        "button_color": "btn--secondary",
+        "button_style": "btn--outline",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_richtext_NJ9JxU",
+    "section_contact_4edqMX"
+  ]
+}

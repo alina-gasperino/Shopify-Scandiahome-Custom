@@ -1,0 +1,111 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 50,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "",
+        "kicker_size": 3,
+        "show_title": false,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "text",
+          "settings": {
+            "title": "Which payment methods do you accept?",
+            "content": "<p>We accept Visa, MasterCard, Discover and American Express credit cards.<\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "text",
+          "settings": {
+            "title": "When will I be charged?",
+            "content": "<p>You will be charged when your order is shipped. If multiple shipments are required to fulfill your order, you will be billed as the items are shipped. Shipping fees, as well as taxes, if applicable, are charged on a pro-rated basis as items are shipped.<\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "text",
+          "settings": {
+            "title": "What if I need to modify or cancel my order?",
+            "content": "<p>If we have not yet shipped your order, you can request a change or cancel your order. For fastest service, call us at 1-800-438-2431. If you have just submitted your order online, send an email to service@scandiahome.com. Be sure to include your full name and address information, as well as your order confirmation number. Please provide complete details on the information that you would like to correct or change. When we have made the change on your order, we will send you an email confirmation. If we are unable to change or cancel your order, we will notify you via email. If it has already shipped, simply return the items that you do not want and will credit your account for the items returned (excluding delivery charges).<\/p>"
+          }
+        },
+        "04fd464d-32fd-4346-9a8f-1909f361c4df": {
+          "type": "text",
+          "settings": {
+            "title": "What if an item I ordered is unavailable?",
+            "content": "<p>Occasionally, a product is more popular than we anticipated, and we temporarily run out of stock. When that happens, we will immediately notify you via email with the anticipated shipping date. Most items that are backordered are expected to arrive in our fulfillment center within 30 days. We ship all ordered items as they become available, so if you have ordered more than one item and any of those items is on backorder, you will receive multiple shipments. You will be billed the total of delivery charges on the first shipment. If you prefer, you can call to request us to hold an order until all or your items are available for shipment. <\/p>"
+          }
+        },
+        "f2f6c0d3-f7ff-427b-a452-aebaa27281d5": {
+          "type": "text",
+          "settings": {
+            "title": "Can I place a custom order?",
+            "content": "<p>Our bespoke bedding takes luxury to the ultimate level. Our U.S. based manufacturing enables us to offer custom offerings in comforters, pillows, featherbeds and select linens. Let our customer service team help you design bedding tailored to your personal expectations. Please call 800-237-5337 to speak to a Scandia Home customer service representative about this service.  Also note: due to their personalized nature, custom items cannot be returned. <\/p>"
+          }
+        },
+        "0fa99996-1779-4ca3-88c4-1f21a1309616": {
+          "type": "text",
+          "settings": {
+            "title": "What is the status of my order?",
+            "content": "<p>All orders are processed the same day they are received, whether it's placed here at our website or you telephone us at our toll-free number. Most items you order are \"in-stock\" inventory. Please allow up to 2 business days for us to process your order for these items. When placing an order online, you will automatically receive an order confirmation message via email. You will also be given an order number on the order confirmation page after you submit your order.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2",
+        "04fd464d-32fd-4346-9a8f-1909f361c4df",
+        "f2f6c0d3-f7ff-427b-a452-aebaa27281d5",
+        "0fa99996-1779-4ca3-88c4-1f21a1309616"
+      ],
+      "settings": {
+        "title": "Orders",
+        "title_align": "text-center",
+        "title_size": 6,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--accent",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "faq"
+  ]
+}
