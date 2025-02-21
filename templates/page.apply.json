@@ -42,42 +42,47 @@
         "padding_bottom": 36
       }
     },
-    "section_contact_4edqMX": {
-      "type": "section-contact",
+    "1739956109309740ea": {
+      "type": "apps",
       "blocks": {
-        "text_ikmX7D": {
-          "type": "text",
+        "hulk_form_builder_form_block_DGiWBE": {
+          "type": "shopify:\/\/apps\/hulk-form-builder\/blocks\/form-block\/b6b8dd14-356b-4725-a4ed-77232212b3c3",
           "settings": {
-            "title": "Full Name"
-          }
-        },
-        "email_afjN3y": {
-          "type": "email",
-          "settings": {
-            "title": "Email"
-          }
-        },
-        "body_HnBDbt": {
-          "type": "body",
-          "settings": {
-            "title": "Message"
+            "form_uuid": "UMdYd1yYDbaEd7KEHovr0g",
+            "form_settings": false,
+            "font_color": "#000000",
+            "size": 14,
+            "input_background_color": "#FFF",
+            "input_background_color_focus": "#F4DADA",
+            "input_border_radius": 1,
+            "input_border_color": "#ebe9e9",
+            "input_border_color_focus": "#2D2727",
+            "input_font_color": "#3D3131",
+            "input_size": 14,
+            "border_color": "#121212",
+            "border_radius": 2,
+            "border": 1,
+            "fill_color": "#EBE9E9",
+            "padding": 35,
+            "form_width": 600,
+            "btn_text": "Submit",
+            "sub_btn_txt_color": "#F3F3F3",
+            "sub_btn_bg_color": "#3F3333",
+            "sub_btn_font_size": 14,
+            "sub_btn_bdr_color": "#FFFFFF",
+            "sub_btn_bdr_rad": 3,
+            "sub_btn_bdr_width": 1,
+            "fonts": "Times New Roman"
           }
         }
       },
       "block_order": [
-        "text_ikmX7D",
-        "email_afjN3y",
-        "body_HnBDbt"
+        "hulk_form_builder_form_block_DGiWBE"
       ],
       "settings": {
-        "title": "",
-        "align_text": "text-center",
-        "button_size": "btn--long",
-        "button_color": "btn--secondary",
-        "button_style": "btn--outline",
         "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
-        "width": "wrapper--narrow",
+        "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -86,6 +91,6 @@
   "order": [
     "main",
     "section_richtext_NJ9JxU",
-    "section_contact_4edqMX"
+    "1739956109309740ea"
   ]
 }

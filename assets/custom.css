@@ -70,6 +70,10 @@
   padding: 20px;
   border-radius: 10px;
 }
+div.form_submit_div button, div.form_submit_div button:hover {
+  font-weight: 500 !important;
+  text-transform: uppercase !important;
+}
 
 @media screen and (min-width: 1024px) {
   .header__logo {
