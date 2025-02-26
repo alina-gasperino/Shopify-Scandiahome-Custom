@@ -23,6 +23,13 @@
         </div>
         <div class="career_meta">
             <div class="left_career">
+                <div class="about_us">                        
+                    {% if article.metafields.custom.about %}
+                        <p style="font-weight: bold;">About us:</p>
+                        {{ article.metafields.custom.about | metafield_tag }}
+                    {% endif %}
+                </div>
+                
                 <div class="career_responsibilities">
                     <p style="font-weight: bold;">Responsibilities: </p>
                     {% if article.metafields.custom.store_environment %}
